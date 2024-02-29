@@ -83657,7 +83657,7 @@ m=t.p
 r=A.GL(B.x,o,0,o,o,o,A.pH(A.a([new A.br(new A.ai(0,0,0,0),A.ed(A.asQ("web/icons/pizzaday.png",B.ce),50,180),o),new A.br(new A.ai(0,0,0,0),A.hn(o,A.d9(B.DI,o,o,o),new A.a_I(n),o,o),o)],m),B.af,B.fI,B.aF),o)
 q=s.length
 q=q===0?A.i6(A.aV("\u041a\u043e\u0440\u0437\u0438\u043d\u0430 \u043f\u043e\u0440\u043e\u0436\u043d\u044f",o,o,o,o,o,o),o,o):A.ay0(o,new A.a_J(s,n),q,o,o,B.am)
-p=A.xn(o,o,o,o,o,o,o,o,o,o,o,new A.I(1/0,50),B.i,o,B.at,o,new A.bP(A.dr(10),B.o),o,o,o,o)
+p=A.xn(o,o,o,o,o,o,o,o,o,o,o,o,B.i,o,B.at,o,new A.bP(A.dr(8),B.o),o,o,o,o)
 return A.MT(r,o,q,A.awf(A.d8(o,A.pH(A.a([A.ok(A.aV("\u041e\u0444\u043e\u0440\u043c\u0438\u0442\u0438 \u0437\u0430\u043c\u043e\u0432\u043b\u0435\u043d\u043d\u044f \u20b4"+B.d.a3(n.gIu(),0),o,o,o,A.bu(o,o,o,o,o,o,o,o,o,o,o,18,o,o,B.ar,o,o,!0,o,o,o,o,o,o,o,o),o,o),new A.a_K(a,n),p)],m),B.af,B.jt,B.aF),B.m,o,o,o,60,o,o,o),o,0.1,o))}}
 A.a_I.prototype={
 $0(){var s=this.a
