@@ -42,10 +42,10 @@
   <script src="telegram_integration.js"></script>
 
 
-
+  
   <script>
     // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "27998935";
+    const serviceWorkerVersion = "3894589433";
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
@@ -59,33 +59,6 @@
     });
   </script>
 
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    // Вимкнення нативного скролу для тега body
-    document.body.style.overflow = 'hidden';
-
-    // Визначення елемента Flutter для керування скролом
-    const flutterApp = document.querySelector('#flutter-app'); // Припускаємо, що у вас є такий елемент
-
-    // Додавання обробника подій для керування скролом
-    flutterApp.addEventListener('wheel', function(e) {
-      // Перевірка, чи скрол відбувається вгору або вниз
-      const direction = e.deltaY > 0 ? 'down' : 'up';
-
-      // Логіка для керування скролом
-      if (direction === 'down') {
-        // Скрол вниз
-        flutterApp.scrollBy(0, 100); // Змініть 100 на потрібне значення скролу
-      } else {
-        // Скрол вгору
-        flutterApp.scrollBy(0, -100); // Змініть 100 на потрібне значення скролу
-      }
-
-      // Попередження стандартної поведінки скролу
-      e.preventDefault();
-    }, {passive: false});
-  });
-</script>
 
   
   <script>
