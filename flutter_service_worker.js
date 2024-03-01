@@ -43,9 +43,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "7c3b4d76a7a9cfc8c12aece682a0f5d9
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/pizzaday.png": "aeb958f2fbc5dc01fb3b4f39e9b9c724",
 "icons/store.png": "a6af3d8e834d3fedced2703917b912af",
-"index.html": "085a350208ede35cd4fd3f4d017f9288",
-"/": "085a350208ede35cd4fd3f4d017f9288",
-"main.dart.js": "a53027c4851f278583acd0c2791b657e",
+"index.html": "a0cadf1a72339cc1832ef9400664672b",
+"/": "a0cadf1a72339cc1832ef9400664672b",
+"main.dart.js": "8b0d290d59f0a66b42c28a2c5a1fcc9e",
 "manifest.json": "bf24c84c3bf99672a631c4f84464e793",
 "telegram_integration.js": "b23339b44d5bf28105117676dfad25a5",
 "version.json": "15235b5108d6a877ef74fe3317a96bf7"};
