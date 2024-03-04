@@ -45,7 +45,7 @@
   
   <script>
     // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "3089281703";
+    const serviceWorkerVersion = "248049205";
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
@@ -54,12 +54,24 @@
 
 
   <script>
-    document.addEventListener("touchmove", function(event) {
+    let lastTouchY = 0;
+    const isAtTop = () => window.pageYOffset === 0;
+  
+    document.addEventListener('touchstart', function(event) {
+      lastTouchY = event.touches[0].clientY;
+    }, { passive: false });
+  
+    document.addEventListener('touchmove', function(event) {
+      const touchY = event.touches[0].clientY;
+      const touchYmove = touchY - lastTouchY;
+      lastTouchY = touchY;
+  
+      if (isAtTop() && touchYmove > 0) {
         event.preventDefault();
-    }, {
-        passive: false
-    });
+      }
+    }, { passive: false });
   </script>
+  
 
   <script>
     window.addEventListener('load', function(ev) {
