@@ -46,7 +46,7 @@
   
   <script>
     // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "1883790972";
+    const serviceWorkerVersion = "2530895907";
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
@@ -63,11 +63,11 @@
   </script> -->
 
   <script>
-    document.addEventListener('DOMContentLoaded', function() {
-        initScrollPrevention();
-    });
+    let isInitialized = false;
 
     function initScrollPrevention() {
+        if (isInitialized) return; // Переконуємося, що ініціалізація відбувається лише один раз
+
         const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
         const isAndroid = /Android/.test(navigator.userAgent);
 
@@ -89,8 +89,13 @@
                 }
             }, { passive: false });
         }
+
+        isInitialized = true;
     }
+
+    document.addEventListener('touchstart', initScrollPrevention, { passive: false });
 </script>
+
   
   
 
