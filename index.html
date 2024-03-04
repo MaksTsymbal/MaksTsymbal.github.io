@@ -45,7 +45,7 @@
   
   <script>
     // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "1049444717";
+    const serviceWorkerVersion = "1104664492";
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
@@ -53,29 +53,25 @@
 <body>
 
 
-  <script>
-    let allowScrollUp = true;
-    
-    document.addEventListener('touchstart', function(event) {
-      // Дозволити прокрутку вгору, якщо ми не на верху сторінки
-      allowScrollUp = window.pageYOffset > 0;
-    }, { passive: false });
-    
-    document.addEventListener('touchmove', function(event) {
-      const touchYmove = event.touches[0].clientY - event.touches[0].pageY;
-      
-      // Якщо рух вгору і ми на верху сторінки, блокувати подію
-      if (touchYmove > 0 && !allowScrollUp) {
+  <!-- <script>
+    document.addEventListener("touchmove", function(event) {
         event.preventDefault();
-      }
-    }, { passive: false });
+    }, {
+        passive: false
+    });
+  </script> -->
+
+  <script>
+    const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
   
-    document.addEventListener('scroll', function() {
-      // Оновлювати дозвіл на прокрутку вгору залежно від позиції на сторінці
-      allowScrollUp = window.pageYOffset > 0;
-    }, { passive: true });
+    if (isIOS) {
+      // Логіка для iOS
+      document.addEventListener("touchmove", function(event) {
+        event.preventDefault();
+      }, { passive: false });
+    }
+    // Для Android або інших ОС не потрібно нічого змінювати, тому код для них не вказуємо
   </script>
-  
   
 
   <script>
