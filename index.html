@@ -51,7 +51,7 @@
   
   <script>
     // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "371192398";
+    const serviceWorkerVersion = "1462088258";
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
@@ -68,20 +68,28 @@
   </script> -->
 
   <script>
+    let allowScroll = true;
     const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
     const isAndroid = /Android/.test(navigator.userAgent);
   
+    document.addEventListener('touchstart', function(event) {
+      allowScroll = (window.pageYOffset === 0);
+    }, { passive: false });
+
     if (isIOS) {
       // Запобігання стандартній поведінці на iOS
       document.addEventListener("touchmove", function(event) {
         event.preventDefault();
       }, { passive: false });
     } else if (isAndroid) {
-      // Дозволяємо скрол на Android незалежно від стану відкриття браузера
-      document.addEventListener("touchmove", function(event) {
-        // Можливо, вам знадобиться додаткова логіка тут, якщо ви хочете обмежити
-        // запобігання стандартній поведінці лише певними умовами
-      }, { passive: true }); // Вказуємо passive: true для покращення продуктивності прокручування
+      document.addEventListener('touchmove', function(event) {
+        if (allowScroll && event.touches[0].clientY > 0) {
+          event.preventDefault();
+        } else {
+          // Якщо ми не на самому верху, дозволяємо прокрутку
+          event.returnValue = true;
+        }
+      }, { passive: false });
     }
   </script>
   
