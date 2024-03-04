@@ -51,7 +51,7 @@
   
   <script>
     // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "1150465157";
+    const serviceWorkerVersion = "3875365977";
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
@@ -82,14 +82,26 @@
         event.preventDefault();
       }, { passive: false });
     } else if (isAndroid) {
-      document.addEventListener('touchmove', function(event) {
-        if (allowScroll && event.touches[0].clientY > 0) {
-          event.preventDefault();
-        } else {
-          // Якщо ми не на самому верху, дозволяємо прокрутку
-          event.returnValue = true;
-        }
-      }, { passive: false });
+      document.addEventListener('touchstart', handleTouchStart, false);        
+      document.addEventListener('touchmove', handleTouchMove, {passive: false});
+
+      let startY = 0; // Початкова Y позиція торкання
+
+      function handleTouchStart(evt) {
+          startY = evt.touches[0].clientY; // Запам'ятовуємо початкову позицію
+      };
+
+      function handleTouchMove(evt) {
+          if (!evt.target.closest('#scrollable-content')) {
+              // Якщо торкання не всередині контейнера з прокруткою, дозволяємо стандартну обробку
+              return;
+          }
+
+          if (evt.target.closest('#scrollable-content') && window.pageYOffset === 0 && startY < evt.touches[0].clientY) {
+              // Якщо ми всередині контейнера і скрол на початку, і рух вгору, запобігаємо стандартній обробці
+              evt.preventDefault();
+          }
+      }
     }
   </script>
   
