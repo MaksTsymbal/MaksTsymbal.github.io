@@ -45,7 +45,7 @@
   
   <script>
     // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "248049205";
+    const serviceWorkerVersion = "1049444717";
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
@@ -54,23 +54,28 @@
 
 
   <script>
-    let lastTouchY = 0;
-    const isAtTop = () => window.pageYOffset === 0;
-  
+    let allowScrollUp = true;
+    
     document.addEventListener('touchstart', function(event) {
-      lastTouchY = event.touches[0].clientY;
+      // Дозволити прокрутку вгору, якщо ми не на верху сторінки
+      allowScrollUp = window.pageYOffset > 0;
     }, { passive: false });
-  
+    
     document.addEventListener('touchmove', function(event) {
-      const touchY = event.touches[0].clientY;
-      const touchYmove = touchY - lastTouchY;
-      lastTouchY = touchY;
-  
-      if (isAtTop() && touchYmove > 0) {
+      const touchYmove = event.touches[0].clientY - event.touches[0].pageY;
+      
+      // Якщо рух вгору і ми на верху сторінки, блокувати подію
+      if (touchYmove > 0 && !allowScrollUp) {
         event.preventDefault();
       }
     }, { passive: false });
+  
+    document.addEventListener('scroll', function() {
+      // Оновлювати дозвіл на прокрутку вгору залежно від позиції на сторінці
+      allowScrollUp = window.pageYOffset > 0;
+    }, { passive: true });
   </script>
+  
   
 
   <script>
