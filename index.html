@@ -19,16 +19,13 @@
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
   <meta name="description" content="A new Flutter project.">
-  <!-- <style>
+  <style>
     html, body {
       touch-action: pan-y;
       overflow-y: scroll; /* Забезпечує прокручування по вертикалі */
       height: 100%; /* Встановлює висоту сторінки на 100% */
     }
-    body {
-        touch-action: none !important;
-    }
-  </style> -->
+  </style>
   <!-- iOS meta tags & icons -->
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
@@ -48,12 +45,35 @@
   
   <script>
     // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "276229671";
+    const serviceWorkerVersion = "1718068587";
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
 </head>
 <body>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', (event) => {
+      // Функція для визначення, чи скрол знаходиться у верхній позиції
+      function checkScrollTop() {
+        if (window.pageYOffset > 0) {
+          // Якщо скрол не у верхній позиції, вимкнути події натискання
+          document.body.style.touchAction = 'none';
+        } else {
+          // Якщо скрол у верхній позиції, вмикнути події натискання
+          document.body.style.touchAction = 'auto';
+        }
+      }
+    
+      // Перевірка при завантаженні сторінки
+      checkScrollTop();
+    
+      // Додавання обробника подій для скролу
+      window.addEventListener('scroll', checkScrollTop);
+    });
+    </script>
+
+
   <script>
     document.addEventListener("touchmove", function(event) {
         event.preventDefault();
