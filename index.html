@@ -46,7 +46,7 @@
   
   <script>
     // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "3008925868";
+    const serviceWorkerVersion = "1883790972";
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
@@ -63,31 +63,34 @@
   </script> -->
 
   <script>
-    let allowScroll = true;
-    const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
-    const isAndroid = /Android/.test(navigator.userAgent);
+    document.addEventListener('DOMContentLoaded', function() {
+        initScrollPrevention();
+    });
 
-    if (isIOS) {
-      // Запобігання стандартній поведінці на iOS
-      document.addEventListener("touchmove", function(event) {
-        event.preventDefault();
-      }, { passive: false });
-    } else if (isAndroid) {
-      let startY = 0;
-      document.addEventListener('touchstart', function(event) {
-          startY = event.touches[0].clientY;
-      }, { passive: false });
+    function initScrollPrevention() {
+        const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+        const isAndroid = /Android/.test(navigator.userAgent);
 
-      document.addEventListener('touchmove', function(event) {
-          const moveY = event.touches[0].clientY;
-          const isScrollingUp = moveY > startY;
-          if (isScrollingUp && window.pageYOffset === 0) {
-              // Якщо користувач прокручує вгору і ми на початку сторінки, запобігаємо скролу браузера
-              event.preventDefault();
-          }
-      }, { passive: false });
+        if (isIOS) {
+          document.addEventListener("touchmove", function(event) {
+            event.preventDefault();
+          }, { passive: false });
+        } else if (isAndroid) {
+            let startY = 0;
+            document.addEventListener('touchstart', function(event) {
+                startY = event.touches[0].clientY;
+            }, { passive: false });
+
+            document.addEventListener('touchmove', function(event) {
+                const moveY = event.touches[0].clientY;
+                const isScrollingUp = moveY > startY;
+                if (isScrollingUp && window.pageYOffset === 0) {
+                    event.preventDefault();
+                }
+            }, { passive: false });
+        }
     }
-  </script>
+</script>
   
   
 
