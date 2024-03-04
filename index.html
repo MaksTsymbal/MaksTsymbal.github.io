@@ -45,32 +45,30 @@
   
   <script>
     // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "3341227235";
+    const serviceWorkerVersion = "1674527494";
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
 </head>
 <body>
 
-
-  <!-- <script>
-    document.addEventListener("touchmove", function(event) {
-        event.preventDefault();
-    }, {
-        passive: false
-    });
-  </script> -->
-
   <script>
-    document.addEventListener("touchmove", function(event) {
-        event.defaultPrevented();
-    }, {
-        passive: false
-    });
+    document.addEventListener('touchmove', function(e) {
+      const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+      if (scrollTop === 0) {
+        e.preventDefault();
+      }
+    }, { passive: false });
   </script>
 
+<!-- <script>
+  document.addEventListener("touchmove", function(event) {
+      event.preventDefault();
+  }, {
+      passive: false
+  });
+</script> -->
 
-  
   <script>
     window.addEventListener('load', function(ev) {
       // Download main.dart.js
