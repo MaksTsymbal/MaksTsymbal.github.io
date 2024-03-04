@@ -45,38 +45,25 @@
   
   <script>
     // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "1718068587";
+    const serviceWorkerVersion = "3341227235";
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
 </head>
 <body>
 
-  <script>
-    document.addEventListener('DOMContentLoaded', (event) => {
-      // Функція для визначення, чи скрол знаходиться у верхній позиції
-      function checkScrollTop() {
-        if (window.pageYOffset > 0) {
-          // Якщо скрол не у верхній позиції, вимкнути події натискання
-          document.body.style.touchAction = 'none';
-        } else {
-          // Якщо скрол у верхній позиції, вмикнути події натискання
-          document.body.style.touchAction = 'auto';
-        }
-      }
-    
-      // Перевірка при завантаженні сторінки
-      checkScrollTop();
-    
-      // Додавання обробника подій для скролу
-      window.addEventListener('scroll', checkScrollTop);
-    });
-    </script>
 
+  <!-- <script>
+    document.addEventListener("touchmove", function(event) {
+        event.preventDefault();
+    }, {
+        passive: false
+    });
+  </script> -->
 
   <script>
     document.addEventListener("touchmove", function(event) {
-        event.preventDefault();
+        event.defaultPrevented();
     }, {
         passive: false
     });
