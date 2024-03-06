@@ -75,9 +75,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "79d10b1c4e8f190efa15644c0113cf8a
 "icons/pizzaday.png": "aeb958f2fbc5dc01fb3b4f39e9b9c724",
 "icons/store.png": "a6af3d8e834d3fedced2703917b912af",
 "icons/vegan.png": "bdc47bdf04e6d390319b5f6d82c97405",
-"index.html": "f0bd2bdf438248c82bda8b41f8edeb29",
-"/": "f0bd2bdf438248c82bda8b41f8edeb29",
-"main.dart.js": "d44d7f32ae1ebf06b7dc3850212c890c",
+"index.html": "e1d81ffc85df8bec4d60f34264075b30",
+"/": "e1d81ffc85df8bec4d60f34264075b30",
+"main.dart.js": "d68edeb595a6bc09886e9461831d3205",
 "manifest.json": "bf24c84c3bf99672a631c4f84464e793",
 "telegram_integration.js": "b23339b44d5bf28105117676dfad25a5",
 "version.json": "15235b5108d6a877ef74fe3317a96bf7"};
