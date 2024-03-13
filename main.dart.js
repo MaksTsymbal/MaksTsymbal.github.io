@@ -83368,7 +83368,7 @@ yX(a){return this.ahO(a)},
 ahO(a){var s=0,r=A.S(t.yp),q,p,o
 var $async$yX=A.N(function(b,c){if(b===1)return A.P(c,r)
 while(true)switch(s){case 0:s=3
-return A.M(A.aRH(A.es("https://thingproxy.freeboard.io/fetch/https://pizzadayapi.azure-api.net/ecom/assortmatrix/"+a+"/"+B.N.cN(0,B.i_.cM(u.C)))),$async$yX)
+return A.M(A.aRH(A.es("https://pizzadayapi.azure-api.net/ecom/assortmatrix/"+a+"/"+B.N.cN(0,B.i_.cM(u.C)))),$async$yX)
 case 3:o=c
 if(o.b===200){p=J.fL(B.b7.S5(0,A.w1(A.vV(o.e).c.a.h(0,"charset")).cN(0,o.w),null),new A.agR(),t.N)
 q=A.a7(p,!0,A.k(p).i("b_.E"))
