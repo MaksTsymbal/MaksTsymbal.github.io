@@ -143,9 +143,21 @@
                     "url": "https://pizzaday.s3.amazonaws.com/2024/01/10/5ec18677-afbb-11ee-91e3-00155d45d204.png",
                     "date_upload": "2024-01-10 15:01:52"
                 }
+            },
+            {
+                "guid": "880da3a0-cf00-11ee-8ac7-001dd8b75f51",
+                "name": "Фелата",
+                "weight": "0",
+                "art": "",
+                "recommendation": false,
+                "max_qty": 0,
+                "foto": {
+                    "url": "https://pizzaday.s3.amazonaws.com/2024/02/21/8e63c772-d091-11ee-8ac7-001dd8b75f51.jpg",
+                    "date_upload": "2024-02-21 10:02:51"
+                }
             }
         ],
-        "additivesqty": 10,
+        "additivesqty": 11,
         "modifiers": [
             {
                 "guid": "d9891976-3b0b-11ed-91c6-00155d45d204",
@@ -405,9 +417,21 @@
                     "url": "https://pizzaday.s3.amazonaws.com/2024/01/10/5ec18677-afbb-11ee-91e3-00155d45d204.png",
                     "date_upload": "2024-01-10 15:01:52"
                 }
+            },
+            {
+                "guid": "880da3a0-cf00-11ee-8ac7-001dd8b75f51",
+                "name": "Фелата",
+                "weight": "0",
+                "art": "",
+                "recommendation": false,
+                "max_qty": 3,
+                "foto": {
+                    "url": "https://pizzaday.s3.amazonaws.com/2024/02/21/8e63c772-d091-11ee-8ac7-001dd8b75f51.jpg",
+                    "date_upload": "2024-02-21 10:02:51"
+                }
             }
         ],
-        "additivesqty": 11,
+        "additivesqty": 12,
         "modifiers": [
             {
                 "guid": "83cb6f33-14aa-11ed-91c6-00155d45d204",
@@ -678,9 +702,21 @@
                     "url": "https://pizzaday.s3.amazonaws.com/2024/01/10/5ec18677-afbb-11ee-91e3-00155d45d204.png",
                     "date_upload": "2024-01-10 15:01:52"
                 }
+            },
+            {
+                "guid": "880da3a0-cf00-11ee-8ac7-001dd8b75f51",
+                "name": "Фелата",
+                "weight": "0",
+                "art": "",
+                "recommendation": false,
+                "max_qty": 3,
+                "foto": {
+                    "url": "https://pizzaday.s3.amazonaws.com/2024/02/21/8e63c772-d091-11ee-8ac7-001dd8b75f51.jpg",
+                    "date_upload": "2024-02-21 10:02:51"
+                }
             }
         ],
-        "additivesqty": 11,
+        "additivesqty": 12,
         "modifiers": [
             {
                 "guid": "ed379649-14ae-11ed-91c6-00155d45d204",
@@ -1127,9 +1163,21 @@
                     "url": "https://pizzaday.s3.amazonaws.com/2024/01/10/5ec18677-afbb-11ee-91e3-00155d45d204.png",
                     "date_upload": "2024-01-10 15:01:52"
                 }
+            },
+            {
+                "guid": "880da3a0-cf00-11ee-8ac7-001dd8b75f51",
+                "name": "Фелата",
+                "weight": "0",
+                "art": "",
+                "recommendation": false,
+                "max_qty": 3,
+                "foto": {
+                    "url": "https://pizzaday.s3.amazonaws.com/2024/02/21/8e63c772-d091-11ee-8ac7-001dd8b75f51.jpg",
+                    "date_upload": "2024-02-21 10:02:51"
+                }
             }
         ],
-        "additivesqty": 8,
+        "additivesqty": 9,
         "modifiers": [
             {
                 "guid": "f02318f2-14b1-11ed-91c6-00155d45d204",
@@ -1675,9 +1723,21 @@
                     "url": "https://pizzaday.s3.amazonaws.com/2024/01/10/5ec18677-afbb-11ee-91e3-00155d45d204.png",
                     "date_upload": "2024-01-10 15:01:52"
                 }
+            },
+            {
+                "guid": "880da3a0-cf00-11ee-8ac7-001dd8b75f51",
+                "name": "Фелата",
+                "weight": "0",
+                "art": "",
+                "recommendation": false,
+                "max_qty": 3,
+                "foto": {
+                    "url": "https://pizzaday.s3.amazonaws.com/2024/02/21/8e63c772-d091-11ee-8ac7-001dd8b75f51.jpg",
+                    "date_upload": "2024-02-21 10:02:51"
+                }
             }
         ],
-        "additivesqty": 9,
+        "additivesqty": 10,
         "modifiers": [
             {
                 "guid": "ed379649-14ae-11ed-91c6-00155d45d204",
@@ -2517,9 +2577,21 @@
                     "url": "https://pizzaday.s3.amazonaws.com/2024/01/10/5ec18677-afbb-11ee-91e3-00155d45d204.png",
                     "date_upload": "2024-01-10 15:01:52"
                 }
+            },
+            {
+                "guid": "880da3a0-cf00-11ee-8ac7-001dd8b75f51",
+                "name": "Фелата",
+                "weight": "0",
+                "art": "",
+                "recommendation": false,
+                "max_qty": 3,
+                "foto": {
+                    "url": "https://pizzaday.s3.amazonaws.com/2024/02/21/8e63c772-d091-11ee-8ac7-001dd8b75f51.jpg",
+                    "date_upload": "2024-02-21 10:02:51"
+                }
             }
         ],
-        "additivesqty": 11,
+        "additivesqty": 12,
         "modifiers": [
             {
                 "guid": "566ba44b-14aa-11ed-91c6-00155d45d204",
@@ -2759,9 +2831,21 @@
                     "url": "https://pizzaday.s3.amazonaws.com/2024/01/10/5ec18677-afbb-11ee-91e3-00155d45d204.png",
                     "date_upload": "2024-01-10 15:01:52"
                 }
+            },
+            {
+                "guid": "880da3a0-cf00-11ee-8ac7-001dd8b75f51",
+                "name": "Фелата",
+                "weight": "0",
+                "art": "",
+                "recommendation": false,
+                "max_qty": 3,
+                "foto": {
+                    "url": "https://pizzaday.s3.amazonaws.com/2024/02/21/8e63c772-d091-11ee-8ac7-001dd8b75f51.jpg",
+                    "date_upload": "2024-02-21 10:02:51"
+                }
             }
         ],
-        "additivesqty": 8,
+        "additivesqty": 9,
         "modifiers": [
             {
                 "guid": "1c7382f8-14a9-11ed-91c6-00155d45d204",
@@ -3048,9 +3132,21 @@
                     "url": "https://pizzaday.s3.amazonaws.com/2024/01/10/5ec18677-afbb-11ee-91e3-00155d45d204.png",
                     "date_upload": "2024-01-10 15:01:52"
                 }
+            },
+            {
+                "guid": "880da3a0-cf00-11ee-8ac7-001dd8b75f51",
+                "name": "Фелата",
+                "weight": "0",
+                "art": "",
+                "recommendation": false,
+                "max_qty": 3,
+                "foto": {
+                    "url": "https://pizzaday.s3.amazonaws.com/2024/02/21/8e63c772-d091-11ee-8ac7-001dd8b75f51.jpg",
+                    "date_upload": "2024-02-21 10:02:51"
+                }
             }
         ],
-        "additivesqty": 11,
+        "additivesqty": 12,
         "modifiers": [
             {
                 "guid": "b3100079-14ab-11ed-91c6-00155d45d204",
@@ -3419,9 +3515,21 @@
                     "url": "https://pizzaday.s3.amazonaws.com/2024/01/10/5ec18677-afbb-11ee-91e3-00155d45d204.png",
                     "date_upload": "2024-01-10 15:01:52"
                 }
+            },
+            {
+                "guid": "880da3a0-cf00-11ee-8ac7-001dd8b75f51",
+                "name": "Фелата",
+                "weight": "0",
+                "art": "",
+                "recommendation": false,
+                "max_qty": 3,
+                "foto": {
+                    "url": "https://pizzaday.s3.amazonaws.com/2024/02/21/8e63c772-d091-11ee-8ac7-001dd8b75f51.jpg",
+                    "date_upload": "2024-02-21 10:02:51"
+                }
             }
         ],
-        "additivesqty": 11,
+        "additivesqty": 12,
         "modifiers": [
             {
                 "guid": "b3100079-14ab-11ed-91c6-00155d45d204",
@@ -3768,9 +3876,21 @@
                     "url": "https://pizzaday.s3.amazonaws.com/2024/01/10/5ec18677-afbb-11ee-91e3-00155d45d204.png",
                     "date_upload": "2024-01-10 15:01:52"
                 }
+            },
+            {
+                "guid": "880da3a0-cf00-11ee-8ac7-001dd8b75f51",
+                "name": "Фелата",
+                "weight": "0",
+                "art": "",
+                "recommendation": false,
+                "max_qty": 3,
+                "foto": {
+                    "url": "https://pizzaday.s3.amazonaws.com/2024/02/21/8e63c772-d091-11ee-8ac7-001dd8b75f51.jpg",
+                    "date_upload": "2024-02-21 10:02:51"
+                }
             }
         ],
-        "additivesqty": 11,
+        "additivesqty": 12,
         "modifiers": [
             {
                 "guid": "6a3c66e1-2e82-11ed-91c6-00155d45d204",
@@ -4005,9 +4125,21 @@
                     "url": "https://pizzaday.s3.amazonaws.com/2024/01/10/5ec18677-afbb-11ee-91e3-00155d45d204.png",
                     "date_upload": "2024-01-10 15:01:52"
                 }
+            },
+            {
+                "guid": "880da3a0-cf00-11ee-8ac7-001dd8b75f51",
+                "name": "Фелата",
+                "weight": "0",
+                "art": "",
+                "recommendation": false,
+                "max_qty": 3,
+                "foto": {
+                    "url": "https://pizzaday.s3.amazonaws.com/2024/02/21/8e63c772-d091-11ee-8ac7-001dd8b75f51.jpg",
+                    "date_upload": "2024-02-21 10:02:51"
+                }
             }
         ],
-        "additivesqty": 8,
+        "additivesqty": 9,
         "modifiers": [
             {
                 "guid": "1c7382f8-14a9-11ed-91c6-00155d45d204",
@@ -4708,9 +4840,21 @@
                     "url": "https://pizzaday.s3.amazonaws.com/upload/535b43b0-4e3a-11ee-91d0-00155d45d204.jpg",
                     "date_upload": "2023-09-08 14:09:33"
                 }
+            },
+            {
+                "guid": "880da3a0-cf00-11ee-8ac7-001dd8b75f51",
+                "name": "Фелата",
+                "weight": "0",
+                "art": "",
+                "recommendation": false,
+                "max_qty": 3,
+                "foto": {
+                    "url": "https://pizzaday.s3.amazonaws.com/2024/02/21/8e63c772-d091-11ee-8ac7-001dd8b75f51.jpg",
+                    "date_upload": "2024-02-21 10:02:51"
+                }
             }
         ],
-        "additivesqty": 9,
+        "additivesqty": 10,
         "modifiers": [
             {
                 "guid": "566ba44b-14aa-11ed-91c6-00155d45d204",
@@ -4838,7 +4982,7 @@
             },
             {
                 "guid": "880da3a0-cf00-11ee-8ac7-001dd8b75f51",
-                "name": "Додатковий сир",
+                "name": "Фелата",
                 "weight": "0",
                 "art": "",
                 "recommendation": false,
@@ -5069,6 +5213,54 @@
         "squirrels": 8.6,
         "fats": 12.9,
         "carbohydrates": 19.6
+    },
+    {
+        "guid": "fbe7769a-d717-11ee-8ac7-001dd8b75f51",
+        "name": "Комбо \"Буде весна\"",
+        "weight": "0",
+        "art": "228",
+        "about": "Барбекю 525 г\nПепероні, мисливські ковбаски, сир Гауда, сир Моцарелла, сир Вершковий, печериці, огірок солоний, маринована цибуля, зелена цибуля, соус Світ Чілі, соус Барбекю.\n\nВершкова Салями 420 г\nКурка, салямі, сир Моцарелла, сир Вершковий, сир Гауда, печериці, маринована цибуля, маслини, соус вершковий.",
+        "goodcategory": "Комбо",
+        "discount": true,
+        "discountgoods": [
+            {
+                "discountgoodguid": "48106a5f-3b4f-11ee-91d0-00155d45d204",
+                "discountgoodqty": 1
+            },
+            {
+                "discountgoodguid": "ff646fa3-b37d-11ee-91e3-00155d45d204",
+                "discountgoodqty": 1
+            }
+        ],
+        "basesauce": [],
+        "additives": [],
+        "additivesqty": 0,
+        "modifiers": [],
+        "modifiersqty": 0,
+        "foto": [
+            {
+                "url": "https://pizzaday.eatery.club/storage/pizzaday/product/icon/15693/0014201b1e1eea566515b2af3f0a7f36.png",
+                "date_upload": "2024-02-19 09:02:55"
+            }
+        ],
+        "hashtag": [],
+        "availability": [],
+        "filters": [],
+        "partsofdescription": [],
+        "priority": 0,
+        "mainpagepriority": 0,
+        "inmenu": {
+            "guid": "9ea70e8f-abdd-11ee-91e3-00155d45d204",
+            "name": "Комбо"
+        },
+        "kilocalories": 0,
+        "joules": 0,
+        "diameter": 0,
+        "good_for_sale": false,
+        "accent": false,
+        "squirrels": 0,
+        "fats": 0,
+        "carbohydrates": 0
     },
     {
         "guid": "3e91aec4-97d0-11eb-916b-00155d45d204",
@@ -5758,9 +5950,21 @@
                     "url": "https://pizzaday.s3.amazonaws.com/2024/01/10/5ec18677-afbb-11ee-91e3-00155d45d204.png",
                     "date_upload": "2024-01-10 15:01:52"
                 }
+            },
+            {
+                "guid": "880da3a0-cf00-11ee-8ac7-001dd8b75f51",
+                "name": "Фелата",
+                "weight": "0",
+                "art": "",
+                "recommendation": false,
+                "max_qty": 3,
+                "foto": {
+                    "url": "https://pizzaday.s3.amazonaws.com/2024/02/21/8e63c772-d091-11ee-8ac7-001dd8b75f51.jpg",
+                    "date_upload": "2024-02-21 10:02:51"
+                }
             }
         ],
-        "additivesqty": 11,
+        "additivesqty": 12,
         "modifiers": [
             {
                 "guid": "1c7382f8-14a9-11ed-91c6-00155d45d204",
@@ -6031,9 +6235,21 @@
                     "url": "https://pizzaday.s3.amazonaws.com/2024/01/10/5ec18677-afbb-11ee-91e3-00155d45d204.png",
                     "date_upload": "2024-01-10 15:01:52"
                 }
+            },
+            {
+                "guid": "880da3a0-cf00-11ee-8ac7-001dd8b75f51",
+                "name": "Фелата",
+                "weight": "0",
+                "art": "",
+                "recommendation": false,
+                "max_qty": 3,
+                "foto": {
+                    "url": "https://pizzaday.s3.amazonaws.com/2024/02/21/8e63c772-d091-11ee-8ac7-001dd8b75f51.jpg",
+                    "date_upload": "2024-02-21 10:02:51"
+                }
             }
         ],
-        "additivesqty": 11,
+        "additivesqty": 12,
         "modifiers": [
             {
                 "guid": "1c7382f8-14a9-11ed-91c6-00155d45d204",
@@ -6326,9 +6542,21 @@
                     "url": "https://pizzaday.s3.amazonaws.com/2024/01/10/5ec18677-afbb-11ee-91e3-00155d45d204.png",
                     "date_upload": "2024-01-10 15:01:52"
                 }
+            },
+            {
+                "guid": "880da3a0-cf00-11ee-8ac7-001dd8b75f51",
+                "name": "Фелата",
+                "weight": "0",
+                "art": "",
+                "recommendation": false,
+                "max_qty": 3,
+                "foto": {
+                    "url": "https://pizzaday.s3.amazonaws.com/2024/02/21/8e63c772-d091-11ee-8ac7-001dd8b75f51.jpg",
+                    "date_upload": "2024-02-21 10:02:51"
+                }
             }
         ],
-        "additivesqty": 11,
+        "additivesqty": 12,
         "modifiers": [
             {
                 "guid": "566ba44b-14aa-11ed-91c6-00155d45d204",
@@ -6597,9 +6825,21 @@
                     "url": "https://pizzaday.s3.amazonaws.com/2024/01/10/5ec18677-afbb-11ee-91e3-00155d45d204.png",
                     "date_upload": "2024-01-10 15:01:52"
                 }
+            },
+            {
+                "guid": "880da3a0-cf00-11ee-8ac7-001dd8b75f51",
+                "name": "Фелата",
+                "weight": "0",
+                "art": "",
+                "recommendation": false,
+                "max_qty": 3,
+                "foto": {
+                    "url": "https://pizzaday.s3.amazonaws.com/2024/02/21/8e63c772-d091-11ee-8ac7-001dd8b75f51.jpg",
+                    "date_upload": "2024-02-21 10:02:51"
+                }
             }
         ],
-        "additivesqty": 9,
+        "additivesqty": 10,
         "modifiers": [
             {
                 "guid": "566ba44b-14aa-11ed-91c6-00155d45d204",
@@ -6859,9 +7099,21 @@
                     "url": "https://pizzaday.s3.amazonaws.com/2024/01/10/5ec18677-afbb-11ee-91e3-00155d45d204.png",
                     "date_upload": "2024-01-10 15:01:52"
                 }
+            },
+            {
+                "guid": "880da3a0-cf00-11ee-8ac7-001dd8b75f51",
+                "name": "Фелата",
+                "weight": "0",
+                "art": "",
+                "recommendation": false,
+                "max_qty": 3,
+                "foto": {
+                    "url": "https://pizzaday.s3.amazonaws.com/2024/02/21/8e63c772-d091-11ee-8ac7-001dd8b75f51.jpg",
+                    "date_upload": "2024-02-21 10:02:51"
+                }
             }
         ],
-        "additivesqty": 11,
+        "additivesqty": 12,
         "modifiers": [
             {
                 "guid": "098f062b-14ae-11ed-91c6-00155d45d204",
@@ -7450,9 +7702,21 @@
                     "url": "",
                     "date_upload": ""
                 }
+            },
+            {
+                "guid": "880da3a0-cf00-11ee-8ac7-001dd8b75f51",
+                "name": "Фелата",
+                "weight": "0",
+                "art": "",
+                "recommendation": false,
+                "max_qty": 3,
+                "foto": {
+                    "url": "https://pizzaday.s3.amazonaws.com/2024/02/21/8e63c772-d091-11ee-8ac7-001dd8b75f51.jpg",
+                    "date_upload": "2024-02-21 10:02:51"
+                }
             }
         ],
-        "additivesqty": 10,
+        "additivesqty": 11,
         "modifiers": [
             {
                 "guid": "b3100079-14ab-11ed-91c6-00155d45d204",
@@ -7696,9 +7960,21 @@
                     "url": "",
                     "date_upload": ""
                 }
+            },
+            {
+                "guid": "880da3a0-cf00-11ee-8ac7-001dd8b75f51",
+                "name": "Фелата",
+                "weight": "0",
+                "art": "",
+                "recommendation": false,
+                "max_qty": 3,
+                "foto": {
+                    "url": "https://pizzaday.s3.amazonaws.com/2024/02/21/8e63c772-d091-11ee-8ac7-001dd8b75f51.jpg",
+                    "date_upload": "2024-02-21 10:02:51"
+                }
             }
         ],
-        "additivesqty": 10,
+        "additivesqty": 11,
         "modifiers": [
             {
                 "guid": "098f062b-14ae-11ed-91c6-00155d45d204",
@@ -7975,9 +8251,21 @@
                     "url": "https://pizzaday.s3.amazonaws.com/2024/01/10/5ec18677-afbb-11ee-91e3-00155d45d204.png",
                     "date_upload": "2024-01-10 15:01:52"
                 }
+            },
+            {
+                "guid": "880da3a0-cf00-11ee-8ac7-001dd8b75f51",
+                "name": "Фелата",
+                "weight": "0",
+                "art": "",
+                "recommendation": false,
+                "max_qty": 3,
+                "foto": {
+                    "url": "https://pizzaday.s3.amazonaws.com/2024/02/21/8e63c772-d091-11ee-8ac7-001dd8b75f51.jpg",
+                    "date_upload": "2024-02-21 10:02:51"
+                }
             }
         ],
-        "additivesqty": 8,
+        "additivesqty": 9,
         "modifiers": [
             {
                 "guid": "566ba44b-14aa-11ed-91c6-00155d45d204",
@@ -8781,9 +9069,21 @@
                     "url": "https://pizzaday.s3.amazonaws.com/2024/01/10/5ec18677-afbb-11ee-91e3-00155d45d204.png",
                     "date_upload": "2024-01-10 15:01:52"
                 }
+            },
+            {
+                "guid": "880da3a0-cf00-11ee-8ac7-001dd8b75f51",
+                "name": "Фелата",
+                "weight": "0",
+                "art": "",
+                "recommendation": false,
+                "max_qty": 3,
+                "foto": {
+                    "url": "https://pizzaday.s3.amazonaws.com/2024/02/21/8e63c772-d091-11ee-8ac7-001dd8b75f51.jpg",
+                    "date_upload": "2024-02-21 10:02:51"
+                }
             }
         ],
-        "additivesqty": 11,
+        "additivesqty": 12,
         "modifiers": [
             {
                 "guid": "66e46137-3d92-11ee-91d0-00155d45d204",
@@ -9063,9 +9363,21 @@
                     "url": "https://pizzaday.s3.amazonaws.com/2024/01/10/5ec18677-afbb-11ee-91e3-00155d45d204.png",
                     "date_upload": "2024-01-10 15:01:52"
                 }
+            },
+            {
+                "guid": "880da3a0-cf00-11ee-8ac7-001dd8b75f51",
+                "name": "Фелата",
+                "weight": "0",
+                "art": "",
+                "recommendation": false,
+                "max_qty": 3,
+                "foto": {
+                    "url": "https://pizzaday.s3.amazonaws.com/2024/02/21/8e63c772-d091-11ee-8ac7-001dd8b75f51.jpg",
+                    "date_upload": "2024-02-21 10:02:51"
+                }
             }
         ],
-        "additivesqty": 11,
+        "additivesqty": 12,
         "modifiers": [
             {
                 "guid": "0fa151ef-5203-11ee-91d0-00155d45d204",
@@ -9374,9 +9686,21 @@
                     "url": "https://pizzaday.s3.amazonaws.com/2024/01/10/5ec18677-afbb-11ee-91e3-00155d45d204.png",
                     "date_upload": "2024-01-10 15:01:52"
                 }
+            },
+            {
+                "guid": "880da3a0-cf00-11ee-8ac7-001dd8b75f51",
+                "name": "Фелата",
+                "weight": "0",
+                "art": "",
+                "recommendation": false,
+                "max_qty": 3,
+                "foto": {
+                    "url": "https://pizzaday.s3.amazonaws.com/2024/02/21/8e63c772-d091-11ee-8ac7-001dd8b75f51.jpg",
+                    "date_upload": "2024-02-21 10:02:51"
+                }
             }
         ],
-        "additivesqty": 11,
+        "additivesqty": 12,
         "modifiers": [
             {
                 "guid": "83cb6f33-14aa-11ed-91c6-00155d45d204",
