@@ -1,30 +1,5 @@
 [
     {
-        "guid": "234fa854-c00a-11ee-8ac4-001dd8b75f51",
-        "id": "666",
-        "geolat": "0",
-        "geolon": "0",
-        "cityguid": "107e6a3b-32a5-11ee-91d0-00155d45d204",
-        "startwork": "10:00:00",
-        "endwork": "22:00:00",
-        "pticetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
-        "foto": {
-            "url": "",
-            "date_upload": "2023-01-05 22:01:03"
-        },
-        "phonenumber": "",
-        "about": "",
-        "adress": "",
-        "street": "Учебный",
-        "buildnumber": "центр",
-        "rating": 5,
-        "nearest": [],
-        "liqpay": {
-            "publicKey": "",
-            "privateKey": ""
-        }
-    },
-    {
         "guid": "b1c16020-d0b6-11ee-8ac7-001dd8b75f51",
         "id": "262",
         "geolat": "50,462608851110296",
@@ -7546,31 +7521,6 @@
         }
     },
     {
-        "guid": "ca00495a-32a4-11ee-91d0-00155d45d204",
-        "id": "999",
-        "geolat": "48,450478",
-        "geolon": "35,067043",
-        "cityguid": "107e6a3b-32a5-11ee-91d0-00155d45d204",
-        "startwork": "10:00:00",
-        "endwork": "21:00:00",
-        "pticetypeguid": "b43dda32-92fb-11eb-916b-00155d45d204",
-        "foto": {
-            "url": "",
-            "date_upload": "2023-01-05 22:01:03"
-        },
-        "phonenumber": "",
-        "about": "",
-        "adress": "",
-        "street": "",
-        "buildnumber": "",
-        "rating": 5,
-        "nearest": [],
-        "liqpay": {
-            "publicKey": "",
-            "privateKey": ""
-        }
-    },
-    {
         "guid": "1171b02d-368c-11ee-91d0-00155d45d204",
         "id": "998",
         "geolat": "0",
@@ -7903,31 +7853,6 @@
         "startwork": "9:00:00",
         "endwork": "18:00:00",
         "pticetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
-        "foto": {
-            "url": "",
-            "date_upload": "2023-01-05 22:01:03"
-        },
-        "phonenumber": "",
-        "about": "",
-        "adress": "",
-        "street": "",
-        "buildnumber": "",
-        "rating": 5,
-        "nearest": [],
-        "liqpay": {
-            "publicKey": "",
-            "privateKey": ""
-        }
-    },
-    {
-        "guid": "e16dd3bb-732b-11ee-91d4-00155d45d204",
-        "id": "777",
-        "geolat": "48,450478",
-        "geolon": "35,067043",
-        "cityguid": "00000000-0000-0000-0000-000000000000",
-        "startwork": "9:00:00",
-        "endwork": "18:00:00",
-        "pticetypeguid": "fa423f66-7332-11ee-91d4-00155d45d204",
         "foto": {
             "url": "",
             "date_upload": "2023-01-05 22:01:03"
