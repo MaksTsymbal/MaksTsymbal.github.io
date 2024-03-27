@@ -45,9 +45,9 @@
         "price": "45.00"
     },
     {
-        "goodguid": "f4c3b3d5-15ec-11ed-91c6-00155d45d204",
+        "goodguid": "a49c5695-7536-11ec-918f-00155d45d204",
         "pricetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
-        "price": "165.00"
+        "price": "125.00"
     },
     {
         "goodguid": "75a36913-10ee-11ee-91c9-00155d45d204",
@@ -93,6 +93,11 @@
         "goodguid": "448ea963-97d0-11eb-916b-00155d45d204",
         "pricetypeguid": "400c3156-4c70-11ec-917d-00155d45d204",
         "price": "12.00"
+    },
+    {
+        "goodguid": "ff646fa3-b37d-11ee-91e3-00155d45d204",
+        "pricetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
+        "price": "125.00"
     },
     {
         "goodguid": "29f6c33d-b60e-11ec-91bc-00155d45d204",
@@ -230,6 +235,11 @@
         "price": "45.00"
     },
     {
+        "goodguid": "f4c3b3d5-15ec-11ed-91c6-00155d45d204",
+        "pricetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
+        "price": "169.00"
+    },
+    {
         "goodguid": "3e91af3f-97d0-11eb-916b-00155d45d204",
         "pricetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
         "price": "29.00"
@@ -248,11 +258,6 @@
         "goodguid": "e9557516-c1c2-11ee-8ac4-001dd8b75f51",
         "pricetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
         "price": "99.00"
-    },
-    {
-        "goodguid": "3e91af79-97d0-11eb-916b-00155d45d204",
-        "pricetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
-        "price": "119.00"
     },
     {
         "goodguid": "ea050ff1-ee00-11eb-916f-00155d45d203",
@@ -288,11 +293,6 @@
         "goodguid": "43b4a2a9-a667-11eb-916b-00155d45d204",
         "pricetypeguid": "400c3156-4c70-11ec-917d-00155d45d204",
         "price": "35.00"
-    },
-    {
-        "goodguid": "ff646fa3-b37d-11ee-91e3-00155d45d204",
-        "pricetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
-        "price": "119.00"
     },
     {
         "goodguid": "29f6c33d-b60e-11ec-91bc-00155d45d204",
@@ -343,11 +343,6 @@
         "goodguid": "03396293-d6d5-11ec-91c1-00155d45d204",
         "pricetypeguid": "400c3156-4c70-11ec-917d-00155d45d204",
         "price": "85.00"
-    },
-    {
-        "goodguid": "3279a223-6bf6-11ed-91c9-00155d45d204",
-        "pricetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
-        "price": "165.00"
     },
     {
         "goodguid": "3e91af6c-97d0-11eb-916b-00155d45d204",
@@ -485,6 +480,11 @@
         "price": "299.00"
     },
     {
+        "goodguid": "ad9facb7-cc50-11ec-91c1-00155d45d204",
+        "pricetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
+        "price": "169.00"
+    },
+    {
         "goodguid": "ac745e09-0414-11ed-91c6-00155d45d204",
         "pricetypeguid": "400c3156-4c70-11ec-917d-00155d45d204",
         "price": "39.00"
@@ -513,11 +513,6 @@
         "goodguid": "9e409c00-17b3-11ed-91c6-00155d45d204",
         "pricetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
         "price": "30.00"
-    },
-    {
-        "goodguid": "ad9facb7-cc50-11ec-91c1-00155d45d204",
-        "pricetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
-        "price": "165.00"
     },
     {
         "goodguid": "65d90e1a-edfb-11eb-916f-00155d45d203",
@@ -835,6 +830,11 @@
         "price": "175.00"
     },
     {
+        "goodguid": "3e91af79-97d0-11eb-916b-00155d45d204",
+        "pricetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
+        "price": "125.00"
+    },
+    {
         "goodguid": "2842ad7a-87b6-11ee-91d6-00155d45d204",
         "pricetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
         "price": "45.00"
@@ -853,11 +853,6 @@
         "goodguid": "2b7a62ef-b39e-11ee-91e3-00155d45d204",
         "pricetypeguid": "400c3156-4c70-11ec-917d-00155d45d204",
         "price": "105.00"
-    },
-    {
-        "goodguid": "48106a5f-3b4f-11ee-91d0-00155d45d204",
-        "pricetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
-        "price": "175.00"
     },
     {
         "goodguid": "cc215d41-cc75-11ec-91c1-00155d45d204",
@@ -1045,6 +1040,11 @@
         "price": "35.00"
     },
     {
+        "goodguid": "9addc6ab-e2dc-11ee-8ac7-001dd8b75f51",
+        "pricetypeguid": "400c3156-4c70-11ec-917d-00155d45d204",
+        "price": "350.00"
+    },
+    {
         "goodguid": "3e91af22-97d0-11eb-916b-00155d45d204",
         "pricetypeguid": "400c3156-4c70-11ec-917d-00155d45d204",
         "price": "25.00"
@@ -1093,11 +1093,6 @@
         "goodguid": "f1c6f7a3-7538-11ec-918f-00155d45d204",
         "pricetypeguid": "400c3156-4c70-11ec-917d-00155d45d204",
         "price": "115.00"
-    },
-    {
-        "goodguid": "3b42ae69-c91e-11eb-916d-00155d45d204",
-        "pricetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
-        "price": "119.00"
     },
     {
         "goodguid": "1b0e8134-a853-11ed-91c9-00155d45d204",
@@ -1188,6 +1183,11 @@
         "goodguid": "448ea91e-97d0-11eb-916b-00155d45d204",
         "pricetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
         "price": "25.00"
+    },
+    {
+        "goodguid": "aad708a5-7532-11ec-918f-00155d45d204",
+        "pricetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
+        "price": "169.00"
     },
     {
         "goodguid": "3e91af59-97d0-11eb-916b-00155d45d204",
@@ -1315,6 +1315,11 @@
         "price": "3.00"
     },
     {
+        "goodguid": "3b42ae69-c91e-11eb-916d-00155d45d204",
+        "pricetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
+        "price": "125.00"
+    },
+    {
         "goodguid": "3e91af5f-97d0-11eb-916b-00155d45d204",
         "pricetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
         "price": "35.00"
@@ -1328,11 +1333,6 @@
         "goodguid": "448ea968-97d0-11eb-916b-00155d45d204",
         "pricetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
         "price": "29.00"
-    },
-    {
-        "goodguid": "aad708a5-7532-11ec-918f-00155d45d204",
-        "pricetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
-        "price": "165.00"
     },
     {
         "goodguid": "3e91af4e-97d0-11eb-916b-00155d45d204",
@@ -1455,6 +1455,11 @@
         "price": "69.00"
     },
     {
+        "goodguid": "9addc6ab-e2dc-11ee-8ac7-001dd8b75f51",
+        "pricetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
+        "price": "350.00"
+    },
+    {
         "goodguid": "62f3de35-7db0-11ec-9192-00155d45d204",
         "pricetypeguid": "400c3156-4c70-11ec-917d-00155d45d204",
         "price": "39.00"
@@ -1485,6 +1490,16 @@
         "price": "39.00"
     },
     {
+        "goodguid": "48106a5f-3b4f-11ee-91d0-00155d45d204",
+        "pricetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
+        "price": "185.00"
+    },
+    {
+        "goodguid": "448ea91a-97d0-11eb-916b-00155d45d204",
+        "pricetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
+        "price": "125.00"
+    },
+    {
         "goodguid": "3e91aec4-97d0-11eb-916b-00155d45d204",
         "pricetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
         "price": "6.00"
@@ -1505,6 +1520,11 @@
         "price": "45.00"
     },
     {
+        "goodguid": "3279a223-6bf6-11ed-91c9-00155d45d204",
+        "pricetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
+        "price": "169.00"
+    },
+    {
         "goodguid": "43b4a2a9-a667-11eb-916b-00155d45d204",
         "pricetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
         "price": "35.00"
@@ -1520,9 +1540,9 @@
         "price": "59.00"
     },
     {
-        "goodguid": "448ea91a-97d0-11eb-916b-00155d45d204",
+        "goodguid": "3e91af86-97d0-11eb-916b-00155d45d204",
         "pricetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
-        "price": "119.00"
+        "price": "169.00"
     },
     {
         "goodguid": "0a698e5d-e8a1-11ec-91c3-00155d45d204",
@@ -1593,11 +1613,6 @@
         "goodguid": "1a9fdb6b-07ff-11ed-91c6-00155d45d204",
         "pricetypeguid": "400c3156-4c70-11ec-917d-00155d45d204",
         "price": "22.00"
-    },
-    {
-        "goodguid": "a49c5695-7536-11ec-918f-00155d45d204",
-        "pricetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
-        "price": "119.00"
     },
     {
         "goodguid": "bf39fc84-cce2-11ee-8ac7-001dd8b75f51",
@@ -1693,11 +1708,6 @@
         "goodguid": "bc2da0c9-df0d-11eb-916f-00155d45d203",
         "pricetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
         "price": "25.00"
-    },
-    {
-        "goodguid": "3e91af86-97d0-11eb-916b-00155d45d204",
-        "pricetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
-        "price": "165.00"
     },
     {
         "goodguid": "3e91af59-97d0-11eb-916b-00155d45d204",

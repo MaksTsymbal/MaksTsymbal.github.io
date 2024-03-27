@@ -1,13 +1,13 @@
 [
     {
-        "guid": "b1c16020-d0b6-11ee-8ac7-001dd8b75f51",
-        "id": "262",
-        "geolat": "50,462608851110296",
-        "geolon": "30,43767336435532",
-        "cityguid": "14cc3c91-c13f-11ec-91bc-00155d45d204",
-        "startwork": "",
-        "endwork": "",
-        "pticetypeguid": "400c3156-4c70-11ec-917d-00155d45d204",
+        "guid": "234fa854-c00a-11ee-8ac4-001dd8b75f51",
+        "id": "666",
+        "geolat": "48,44914473538054",
+        "geolon": "35,062964218167046",
+        "cityguid": "107e6a3b-32a5-11ee-91d0-00155d45d204",
+        "startwork": "10:00:00",
+        "endwork": "22:00:00",
+        "pticetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
         "foto": {
             "url": "",
             "date_upload": "2023-01-05 22:01:03"
@@ -15,14 +15,16 @@
         "phonenumber": "",
         "about": "",
         "adress": "",
-        "street": "вул.Дегтярівська ",
-        "buildnumber": "62",
+        "street": "Учебный",
+        "buildnumber": "центр",
         "rating": 5,
         "nearest": [],
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "3da296c7-9a02-11eb-916b-00155d45d204",
@@ -68,7 +70,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "e2a8f281-9a02-11eb-916b-00155d45d204",
@@ -114,7 +118,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "ed637c15-9a02-11eb-916b-00155d45d204",
@@ -160,7 +166,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "ed637c16-9a02-11eb-916b-00155d45d204",
@@ -172,8 +180,8 @@
         "endwork": "22:00:00",
         "pticetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
         "foto": {
-            "url": "https://pizzaday.s3.amazonaws.com/2024/01/22/d3d2ff74-b906-11ee-91e3-00155d45d204.jpg",
-            "date_upload": "2023-01-05 22:01:03"
+            "url": "https://pizzaday.s3.amazonaws.com/2024/03/20/8d00524b-e6cc-11ee-8ac7-001dd8b75f51.jpg",
+            "date_upload": "2024-03-20 17:03:00"
         },
         "phonenumber": "380730836762",
         "about": "Pizza Day №4 провулок Парусний 18Л ",
@@ -206,7 +214,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "f926a37e-9a02-11eb-916b-00155d45d204",
@@ -240,7 +250,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "f926a37f-9a02-11eb-916b-00155d45d204",
@@ -286,7 +298,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": "https://pizzaday.s3.amazonaws.com/2024/03/20/062f5101-e6be-11ee-8ac7-001dd8b75f51.kml"
     },
     {
         "guid": "04a70525-9a03-11eb-916b-00155d45d204",
@@ -332,7 +346,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": "https://pizzaday.s3.amazonaws.com/2024/03/20/4f9a96f8-e6be-11ee-8ac7-001dd8b75f51.kml"
     },
     {
         "guid": "0f022320-9a03-11eb-916b-00155d45d204",
@@ -374,7 +390,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "0f022321-9a03-11eb-916b-00155d45d204",
@@ -416,7 +434,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "185963a2-9a03-11eb-916b-00155d45d204",
@@ -462,7 +482,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "227dac2b-9a03-11eb-916b-00155d45d204",
@@ -508,7 +530,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "5807da0d-9a03-11eb-916b-00155d45d204",
@@ -554,7 +578,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": "https://pizzaday.s3.amazonaws.com/2024/03/06/5bad55e3-dbb3-11ee-8ac7-001dd8b75f51.kml"
     },
     {
         "guid": "62ff188f-9a03-11eb-916b-00155d45d204",
@@ -600,7 +626,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": "https://pizzaday.s3.amazonaws.com/2024/03/06/1b9beaaf-dbc4-11ee-8ac7-001dd8b75f51.kml"
     },
     {
         "guid": "6e091969-9a03-11eb-916b-00155d45d204",
@@ -646,7 +674,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "78ff2efd-9a03-11eb-916b-00155d45d204",
@@ -692,7 +722,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "83b9ab5d-9a03-11eb-916b-00155d45d204",
@@ -738,7 +770,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": true,
+        "mapKmlUrl": "https://pizzaday.s3.amazonaws.com/2024/03/01/ab74b485-d7ea-11ee-8ac7-001dd8b75f51.kml"
     },
     {
         "guid": "8edaaa16-9a03-11eb-916b-00155d45d204",
@@ -784,7 +818,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "99e8957d-9a03-11eb-916b-00155d45d204",
@@ -830,7 +866,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "a37dd45f-9a03-11eb-916b-00155d45d204",
@@ -876,7 +914,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "ae71861a-9a03-11eb-916b-00155d45d204",
@@ -922,7 +962,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "b9358a7e-9a03-11eb-916b-00155d45d204",
@@ -968,7 +1010,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "c3cc422e-9a03-11eb-916b-00155d45d204",
@@ -1014,7 +1058,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "ce7f96f7-9a03-11eb-916b-00155d45d204",
@@ -1060,7 +1106,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "d98b2166-9a03-11eb-916b-00155d45d204",
@@ -1072,8 +1120,8 @@
         "endwork": "22:00:00",
         "pticetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
         "foto": {
-            "url": "https://pizzaday.s3.amazonaws.com/2024/01/22/57c995d1-b90b-11ee-91e3-00155d45d204.jpg",
-            "date_upload": "2023-01-05 22:01:03"
+            "url": "https://pizzaday.s3.amazonaws.com/2024/03/19/5e4c2e1e-e60a-11ee-8ac7-001dd8b75f51.jpg",
+            "date_upload": "2024-03-19 18:03:00"
         },
         "phonenumber": "380730836774",
         "about": "Pizza Day №24  вул.Калинова 3Ж (біля ТЦ \"Мельниця\")",
@@ -1106,7 +1154,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "e4bf329f-9a03-11eb-916b-00155d45d204",
@@ -1152,7 +1202,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "16dc088a-9a04-11eb-916b-00155d45d204",
@@ -1198,7 +1250,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": "https://pizzaday.s3.amazonaws.com/2024/03/20/89ba2360-e6bf-11ee-8ac7-001dd8b75f51.kml"
     },
     {
         "guid": "16dc088b-9a04-11eb-916b-00155d45d204",
@@ -1244,7 +1298,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "2cee57c7-9a04-11eb-916b-00155d45d204",
@@ -1290,7 +1346,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "3790fd47-9a04-11eb-916b-00155d45d204",
@@ -1336,7 +1394,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "42c77117-9a04-11eb-916b-00155d45d204",
@@ -1378,7 +1438,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "58e34abb-9a04-11eb-916b-00155d45d204",
@@ -1424,7 +1486,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "6f7657ed-9a04-11eb-916b-00155d45d204",
@@ -1436,8 +1500,8 @@
         "endwork": "22:00:00",
         "pticetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
         "foto": {
-            "url": "https://pizzaday.s3.amazonaws.com/2024/01/22/94d88791-b936-11ee-91e3-00155d45d204.jpg",
-            "date_upload": "2023-01-05 22:01:03"
+            "url": "https://pizzaday.s3.amazonaws.com/2024/03/15/71178a3b-e2a4-11ee-8ac7-001dd8b75f51.jpg",
+            "date_upload": "2024-03-18 17:03:00"
         },
         "phonenumber": "380730836707",
         "about": "Pizza Day №37 вул.Янтарна 75М/1 (ж/м Клочко)",
@@ -1470,7 +1534,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "79236bc6-9a04-11eb-916b-00155d45d204",
@@ -1516,7 +1582,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "8f381ccc-9a04-11eb-916b-00155d45d204",
@@ -1528,8 +1596,8 @@
         "endwork": "21:00:00",
         "pticetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
         "foto": {
-            "url": "https://pizzaday.s3.amazonaws.com/2024/01/22/dd974271-b936-11ee-91e3-00155d45d204.jpg",
-            "date_upload": "2023-01-05 22:01:03"
+            "url": "https://pizzaday.s3.amazonaws.com/2024/03/22/9d0c0025-e82c-11ee-8ac7-001dd8b75f51.jpg",
+            "date_upload": "2024-03-22 11:03:00"
         },
         "phonenumber": "380730836846",
         "about": "Pizza Day №40 вул.Сучкова 15В (біля літака)",
@@ -1546,7 +1614,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "6e056ad2-9a05-11eb-916b-00155d45d204",
@@ -1592,7 +1662,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "8318a156-9a05-11eb-916b-00155d45d204",
@@ -1638,7 +1710,9 @@
         "liqpay": {
             "publicKey": "i97188322406",
             "privateKey": "9MO6tQxM2J5XYZdL5BhcNytegsqrpsvkI8B7d5po"
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": "https://pizzaday.s3.amazonaws.com/2024/03/20/33b6c4e4-e6bf-11ee-8ac7-001dd8b75f51.kml"
     },
     {
         "guid": "8e052e49-9a05-11eb-916b-00155d45d204",
@@ -1684,7 +1758,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "abc19a00-9a05-11eb-916b-00155d45d204",
@@ -1730,7 +1806,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": "https://pizzaday.s3.amazonaws.com/2024/03/06/a92af1db-dbc3-11ee-8ac7-001dd8b75f51.kml"
     },
     {
         "guid": "c1238599-9a05-11eb-916b-00155d45d204",
@@ -1776,7 +1854,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "cc6d0d33-9a05-11eb-916b-00155d45d204",
@@ -1806,7 +1886,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "23531331-9a06-11eb-916b-00155d45d204",
@@ -1836,7 +1918,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "39a35ec7-9a06-11eb-916b-00155d45d204",
@@ -1848,8 +1932,8 @@
         "endwork": "22:00:00",
         "pticetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
         "foto": {
-            "url": "https://pizzaday.s3.amazonaws.com/upload/771b25b0-4fde-11ee-91d0-00155d45d204.jpg",
-            "date_upload": "2023-01-05 22:01:03"
+            "url": "https://pizzaday.s3.amazonaws.com/2024/03/22/148628c2-e82e-11ee-8ac7-001dd8b75f51.jpg",
+            "date_upload": "2024-03-22 11:03:00"
         },
         "phonenumber": "380730836709",
         "about": "Pizza Day № 50, вул. 20-річчя Перемоги, 35 (ж/м Придніпровськ)",
@@ -1882,7 +1966,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "4f433f9c-9a06-11eb-916b-00155d45d204",
@@ -1928,7 +2014,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "5a6b65b9-9a06-11eb-916b-00155d45d204",
@@ -1953,7 +2041,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "7ac36a5f-9a06-11eb-916b-00155d45d204",
@@ -1999,7 +2089,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "906f2e19-9a06-11eb-916b-00155d45d204",
@@ -2045,7 +2137,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "9b75f025-9a06-11eb-916b-00155d45d204",
@@ -2091,7 +2185,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": "https://pizzaday.s3.amazonaws.com/2024/03/01/c3b1753d-d7ea-11ee-8ac7-001dd8b75f51.kml"
     },
     {
         "guid": "b0a0ff0a-9a06-11eb-916b-00155d45d204",
@@ -2137,7 +2233,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "d1f34c96-9a06-11eb-916b-00155d45d204",
@@ -2183,7 +2281,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "dc9f8c9f-9a06-11eb-916b-00155d45d204",
@@ -2229,7 +2329,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "f2c4f60a-9a06-11eb-916b-00155d45d204",
@@ -2271,7 +2373,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": "https://pizzaday.s3.amazonaws.com/2024/03/06/25caf387-dbaf-11ee-8ac7-001dd8b75f51.kml"
     },
     {
         "guid": "08484439-9a07-11eb-916b-00155d45d204",
@@ -2317,7 +2421,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "1d650c8c-9a07-11eb-916b-00155d45d204",
@@ -2355,7 +2461,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": "https://pizzaday.s3.amazonaws.com/2024/03/20/1b74f9af-e6c9-11ee-8ac7-001dd8b75f51.kml"
     },
     {
         "guid": "3dcdbe2e-9a07-11eb-916b-00155d45d204",
@@ -2401,7 +2509,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "478de7e1-9a07-11eb-916b-00155d45d204",
@@ -2447,7 +2557,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "686b73c1-9a07-11eb-916b-00155d45d204",
@@ -2459,8 +2571,8 @@
         "endwork": "22:00:00",
         "pticetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
         "foto": {
-            "url": "https://pizzaday.s3.amazonaws.com/2024/01/23/8dda4698-b9d5-11ee-91e3-00155d45d204.jpg",
-            "date_upload": "2023-01-05 22:01:03"
+            "url": "https://pizzaday.s3.amazonaws.com/2024/03/22/c65f8e21-e82f-11ee-8ac7-001dd8b75f51.jpg",
+            "date_upload": "2024-03-22 11:03:00"
         },
         "phonenumber": "380730836718",
         "about": "Pizza Day №66 пр.Слобожанський 12 (зупинка Виконком)",
@@ -2493,7 +2605,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "7312e12f-9a07-11eb-916b-00155d45d204",
@@ -2539,7 +2653,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": "https://pizzaday.s3.amazonaws.com/2024/03/20/d0bde210-e6be-11ee-8ac7-001dd8b75f51.kml"
     },
     {
         "guid": "889888d3-9a07-11eb-916b-00155d45d204",
@@ -2585,7 +2701,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": "https://pizzaday.s3.amazonaws.com/2024/03/20/5eeb2dd9-e6bf-11ee-8ac7-001dd8b75f51.kml"
     },
     {
         "guid": "b44ac05c-9a07-11eb-916b-00155d45d204",
@@ -2597,12 +2715,12 @@
         "endwork": "21:00:00",
         "pticetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
         "foto": {
-            "url": "https://pizzaday.s3.amazonaws.com/2024/01/24/89afea20-ba90-11ee-91e3-00155d45d204.jpg",
+            "url": "",
             "date_upload": "2023-01-05 22:01:03"
         },
-        "phonenumber": "380730836721",
-        "about": "Pizza Day №70 вул.Будівельників 4А (біля АТБ)",
-        "adress": "Кам'янське, вул.Будівельників 4А",
+        "phonenumber": "",
+        "about": "",
+        "adress": "",
         "street": "бул.Будівельників",
         "buildnumber": "20А",
         "rating": 5,
@@ -2631,7 +2749,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "d52acd19-9a07-11eb-916b-00155d45d204",
@@ -2669,7 +2789,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "36994d3c-9a08-11eb-916b-00155d45d204",
@@ -2707,7 +2829,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "41431868-9a08-11eb-916b-00155d45d204",
@@ -2753,7 +2877,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "09636702-9a0a-11eb-916b-00155d45d204",
@@ -2799,7 +2925,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "1363ec22-9a0a-11eb-916b-00155d45d204",
@@ -2837,7 +2965,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "29b43fae-9a0a-11eb-916b-00155d45d204",
@@ -2883,7 +3013,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "54de8795-9a0a-11eb-916b-00155d45d204",
@@ -2929,7 +3061,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "6ac84f0e-9a0a-11eb-916b-00155d45d204",
@@ -2967,7 +3101,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "95ca109b-9a0a-11eb-916b-00155d45d204",
@@ -2979,8 +3115,8 @@
         "endwork": "21:00:00",
         "pticetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
         "foto": {
-            "url": "https://pizzaday.s3.amazonaws.com/2024/01/24/96d69757-ba91-11ee-91e3-00155d45d204.jpg",
-            "date_upload": "2023-01-05 22:01:03"
+            "url": "https://pizzaday.s3.amazonaws.com/2024/03/22/5cb8d128-e82d-11ee-8ac7-001dd8b75f51.jpg",
+            "date_upload": "2024-03-22 11:03:00"
         },
         "phonenumber": "380730836854",
         "about": "Pizza Day №88 вул.Гетьманська 44А (навпроти ТЦ \"Зоряний\")",
@@ -2997,7 +3133,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "d5f6e24d-9a0a-11eb-916b-00155d45d204",
@@ -3043,7 +3181,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "0168b1a5-9a0b-11eb-916b-00155d45d204",
@@ -3089,7 +3229,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "17311a0d-9a0b-11eb-916b-00155d45d204",
@@ -3135,7 +3277,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "37524836-9a0b-11eb-916b-00155d45d204",
@@ -3181,7 +3325,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "62c41a35-9a0b-11eb-916b-00155d45d204",
@@ -3227,7 +3373,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "08079ace-bb4c-11eb-916b-00155d45d204",
@@ -3273,7 +3421,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "3b3bb550-bb4c-11eb-916b-00155d45d204",
@@ -3319,7 +3469,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "50e78253-bb4c-11eb-916b-00155d45d204",
@@ -3365,7 +3517,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "a62f0005-bb4c-11eb-916b-00155d45d204",
@@ -3411,7 +3565,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "210a6db2-bc95-11eb-916b-00155d45d204",
@@ -3457,7 +3613,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "2ce3115c-bc95-11eb-916b-00155d45d204",
@@ -3503,7 +3661,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "366c636c-bc95-11eb-916b-00155d45d204",
@@ -3549,7 +3709,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "59da7582-bc95-11eb-916b-00155d45d204",
@@ -3595,7 +3757,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "61df29ed-bc95-11eb-916b-00155d45d204",
@@ -3641,7 +3805,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": "https://pizzaday.s3.amazonaws.com/2024/03/06/87c53021-dbc3-11ee-8ac7-001dd8b75f51.kml"
     },
     {
         "guid": "68ee5024-bc95-11eb-916b-00155d45d204",
@@ -3687,7 +3853,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "70f305d1-bc95-11eb-916b-00155d45d204",
@@ -3733,7 +3901,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "ac36afc5-c56b-11eb-916d-00155d45d204",
@@ -3779,7 +3949,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "b607939e-c56b-11eb-916d-00155d45d204",
@@ -3825,7 +3997,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "bff9cbf8-c56b-11eb-916d-00155d45d204",
@@ -3871,7 +4045,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "d4bc290d-c56b-11eb-916d-00155d45d204",
@@ -3917,7 +4093,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "0495cf4c-ceb9-11eb-916d-00155d45d204",
@@ -3963,7 +4141,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "e34956d3-df30-11eb-916f-00155d45d203",
@@ -4009,7 +4189,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "e7996346-df31-11eb-916f-00155d45d203",
@@ -4055,7 +4237,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "19c9bb97-df32-11eb-916f-00155d45d203",
@@ -4101,7 +4285,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "5e6323d1-df32-11eb-916f-00155d45d203",
@@ -4147,7 +4333,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "431868bb-ebac-11eb-916f-00155d45d203",
@@ -4193,7 +4381,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "b627fe7c-ebac-11eb-916f-00155d45d203",
@@ -4239,7 +4429,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "b221c7fe-ebb9-11eb-916f-00155d45d203",
@@ -4285,7 +4477,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "6ac6f93f-f9ec-11eb-9170-00155d45d203",
@@ -4331,7 +4525,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "ef5bf204-fe9c-11eb-9172-00155d45d204",
@@ -4365,7 +4561,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "e2c44264-fe9e-11eb-9172-00155d45d204",
@@ -4411,7 +4609,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "294ccae5-fe9f-11eb-9172-00155d45d204",
@@ -4445,7 +4645,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "a6b39f86-05a7-11ec-9172-00155d45d204",
@@ -4491,7 +4693,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": "https://pizzaday.s3.amazonaws.com/2024/03/20/6e903106-e6be-11ee-8ac7-001dd8b75f51.kml"
     },
     {
         "guid": "2aa3eb52-05a8-11ec-9172-00155d45d204",
@@ -4537,7 +4741,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "8a704dbf-0b2f-11ec-9172-00155d45d204",
@@ -4583,7 +4789,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "035487d3-1524-11ec-9172-00155d45d204",
@@ -4629,32 +4837,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
-    },
-    {
-        "guid": "116fe3fe-16bb-11ec-9172-00155d45d204",
-        "id": "1012",
-        "geolat": "0",
-        "geolon": "0",
-        "cityguid": "ea9d859b-c13e-11ec-91bc-00155d45d204",
-        "startwork": "9:00:00",
-        "endwork": "18:00:00",
-        "pticetypeguid": "b43dda32-92fb-11eb-916b-00155d45d204",
-        "foto": {
-            "url": "",
-            "date_upload": "2023-01-05 22:01:03"
         },
-        "phonenumber": "",
-        "about": "",
-        "adress": "",
-        "street": "",
-        "buildnumber": "",
-        "rating": 5,
-        "nearest": [],
-        "liqpay": {
-            "publicKey": "",
-            "privateKey": ""
-        }
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "efc9790d-1ab9-11ec-9172-00155d45d204",
@@ -4700,7 +4885,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "fbd1aca1-1b6a-11ec-9172-00155d45d204",
@@ -4746,7 +4933,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "b22dd457-227e-11ec-9172-00155d45d204",
@@ -4792,7 +4981,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "2d2db457-283b-11ec-9174-00155d45d204",
@@ -4838,7 +5029,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": "https://pizzaday.s3.amazonaws.com/2024/03/06/199b147f-dbb1-11ee-8ac7-001dd8b75f51.kml"
     },
     {
         "guid": "f20096bc-283f-11ec-9174-00155d45d204",
@@ -4872,7 +5065,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "3e1fe747-2844-11ec-9174-00155d45d204",
@@ -4918,7 +5113,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": "https://pizzaday.s3.amazonaws.com/2024/03/06/cdb8b35b-dbc7-11ee-8ac7-001dd8b75f51.kml"
     },
     {
         "guid": "671bc98d-2846-11ec-9174-00155d45d204",
@@ -4964,7 +5161,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "d12bfffe-3eec-11ec-9174-00155d45d204",
@@ -5010,7 +5209,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": "https://pizzaday.s3.amazonaws.com/2024/03/20/d28bd0bd-e6c8-11ee-8ac7-001dd8b75f51.kml"
     },
     {
         "guid": "0cefbe0a-3eef-11ec-9174-00155d45d204",
@@ -5056,7 +5257,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "ad367344-3ef1-11ec-9174-00155d45d204",
@@ -5102,7 +5305,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "23497488-4d02-11ec-917d-00155d45d204",
@@ -5148,7 +5353,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "aa8912d4-5da1-11ec-9185-00155d45d204",
@@ -5194,7 +5401,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "2585cc20-617e-11ec-9187-00155d45d203",
@@ -5224,7 +5433,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "0a2324a0-630a-11ec-9187-00155d45d203",
@@ -5270,7 +5481,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "3e7500cd-67ec-11ec-9188-00155d45d203",
@@ -5316,7 +5529,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "7d593627-6885-11ec-9188-00155d45d203",
@@ -5362,7 +5577,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "bd6b89d1-79bd-11ec-9191-00155d45d204",
@@ -5408,7 +5625,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "5300f823-79bf-11ec-9191-00155d45d204",
@@ -5454,7 +5673,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "77a394b8-7db2-11ec-9192-00155d45d204",
@@ -5500,7 +5721,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "b5b8c67a-7db2-11ec-9192-00155d45d204",
@@ -5546,7 +5769,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "18c77eb3-8991-11ec-919a-00155d45d204",
@@ -5592,7 +5817,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "de21ac85-8993-11ec-919a-00155d45d204",
@@ -5638,7 +5865,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "a881066d-8994-11ec-919a-00155d45d204",
@@ -5684,7 +5913,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "91fd8dbd-8995-11ec-919a-00155d45d204",
@@ -5730,7 +5961,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "bcc5d451-17bc-11ed-91c6-00155d45d204",
@@ -5776,7 +6009,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "a1968d58-17bd-11ed-91c6-00155d45d204",
@@ -5822,7 +6057,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "1d36c4d4-17be-11ed-91c6-00155d45d204",
@@ -5868,7 +6105,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "798ec000-2de3-11ed-91c6-00155d45d204",
@@ -5914,7 +6153,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "942d93ea-2de3-11ed-91c6-00155d45d204",
@@ -5960,7 +6201,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "e91ba2e6-42fb-11ed-91c9-00155d45d204",
@@ -6006,7 +6249,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "11a2b4bf-42fd-11ed-91c9-00155d45d204",
@@ -6052,7 +6297,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "40bcaf8f-4f7b-11ed-91c9-00155d45d204",
@@ -6098,7 +6345,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "7f011105-56ab-11ed-91c9-00155d45d204",
@@ -6144,7 +6393,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "078edeee-64db-11ed-91c9-00155d45d204",
@@ -6190,7 +6441,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "087b8dc0-7544-11ed-91c9-00155d45d204",
@@ -6220,7 +6473,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "818d3c80-7544-11ed-91c9-00155d45d204",
@@ -6254,7 +6509,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "e32bf58b-7544-11ed-91c9-00155d45d204",
@@ -6288,7 +6545,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "35e6dce2-9313-11ed-91c9-00155d45d204",
@@ -6334,7 +6593,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "bf232f07-9313-11ed-91c9-00155d45d204",
@@ -6380,7 +6641,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "15cebb1f-9314-11ed-91c9-00155d45d204",
@@ -6426,7 +6689,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "52c66fff-9314-11ed-91c9-00155d45d204",
@@ -6472,7 +6737,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "8437a460-a32a-11ed-91c9-00155d45d204",
@@ -6490,8 +6757,8 @@
         "phonenumber": "380735670830",
         "about": "Pizza Day №198 вул.Лесі Українки 59",
         "adress": "м.Житомир, вул.Лесі Українки 59",
-        "street": "",
-        "buildnumber": "",
+        "street": "Лесі Українки",
+        "buildnumber": "59",
         "rating": 5,
         "nearest": [
             {
@@ -6506,7 +6773,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "a814f860-a32a-11ed-91c9-00155d45d204",
@@ -6540,7 +6809,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "e18410d5-b673-11ed-91c9-00155d45d204",
@@ -6586,7 +6857,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "ed0c7cfb-b673-11ed-91c9-00155d45d204",
@@ -6604,8 +6877,8 @@
         "phonenumber": "380735782380",
         "about": "Pizza Day №201 на вул.Митрополита Андрея Шептицького 22",
         "adress": "м.Київ, вул.Митрополита Андрея Шептицького 22",
-        "street": "",
-        "buildnumber": "",
+        "street": "Шептицького",
+        "buildnumber": "22",
         "rating": 5,
         "nearest": [
             {
@@ -6632,7 +6905,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "ed0c7cfc-b673-11ed-91c9-00155d45d204",
@@ -6650,8 +6925,8 @@
         "phonenumber": "380735789839",
         "about": "Pizza Day №202 на вул.Дунайська 32",
         "adress": "м.Львів, вул.Дунайська 32",
-        "street": "",
-        "buildnumber": "",
+        "street": "Дунайська",
+        "buildnumber": "32",
         "rating": 5,
         "nearest": [
             {
@@ -6674,7 +6949,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "f61c349a-b673-11ed-91c9-00155d45d204",
@@ -6692,8 +6969,8 @@
         "phonenumber": "380735670673",
         "about": "Pizza Day №203 на вул.Островського 22А",
         "adress": "м.Буча, вул.Островського 18",
-        "street": "",
-        "buildnumber": "",
+        "street": "Островського",
+        "buildnumber": "18",
         "rating": 5,
         "nearest": [
             {
@@ -6704,7 +6981,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "b2d2abc4-d7b3-11ed-91c9-00155d45d204",
@@ -6722,8 +7001,8 @@
         "phonenumber": "380735781221",
         "about": "Pizza Day №204 на вул.Остроградських 2",
         "adress": "м.Львів, вул.Остроградських 2",
-        "street": "",
-        "buildnumber": "",
+        "street": "Остроградських",
+        "buildnumber": "2",
         "rating": 5,
         "nearest": [
             {
@@ -6746,7 +7025,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "b90d42c4-d7b3-11ed-91c9-00155d45d204",
@@ -6764,14 +7045,16 @@
         "phonenumber": "380735789040",
         "about": "Pizza Day №205, бул.Тараса Шевченка, 5",
         "adress": "м.Київ, вул.Тараса Шевченка 5 (Святопетрівське)",
-        "street": "",
-        "buildnumber": "",
+        "street": "Тараса Шевченко ",
+        "buildnumber": "5",
         "rating": 5,
         "nearest": [],
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "4f683862-e275-11ed-91c9-00155d45d204",
@@ -6789,8 +7072,8 @@
         "phonenumber": "380735788677",
         "about": "Pizza Day №208, вул.Олександрійський 78",
         "adress": "м.Біла Церква, вул.Олександрійський 78",
-        "street": "",
-        "buildnumber": "",
+        "street": "Олександрійський",
+        "buildnumber": "78",
         "rating": 5,
         "nearest": [
             {
@@ -6805,7 +7088,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "593e0b5b-e275-11ed-91c9-00155d45d204",
@@ -6823,8 +7108,8 @@
         "phonenumber": "380732531238",
         "about": "Pizza Day №209 на вул.Перемоги 24",
         "adress": "м.Житомир, вул.Перемоги 24",
-        "street": "",
-        "buildnumber": "",
+        "street": "Перемоги",
+        "buildnumber": "24",
         "rating": 5,
         "nearest": [
             {
@@ -6839,7 +7124,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "348a3e19-ea5a-11ed-91c9-00155d45d204",
@@ -6857,8 +7144,8 @@
         "phonenumber": "380737539969",
         "about": "Pizza Day №206 на вул.Величковського 40А",
         "adress": "м.Львів, вул. Величковського 40, літ А-1",
-        "street": "",
-        "buildnumber": "",
+        "street": "Величковського",
+        "buildnumber": "40/А-1",
         "rating": 5,
         "nearest": [
             {
@@ -6881,14 +7168,16 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
-        "guid": "14f12eb4-ed7c-11ed-91c9-00155d45d204",
-        "id": "5000",
-        "geolat": "0",
-        "geolon": "0",
-        "cityguid": "00000000-0000-0000-0000-000000000000",
+        "guid": "540ae926-ea5a-11ed-91c9-00155d45d204",
+        "id": "207",
+        "geolat": "49,87535",
+        "geolon": "30,0873",
+        "cityguid": "cbb5dcd5-a305-11ee-91d7-00155d45d204",
         "startwork": "10:00:00",
         "endwork": "22:00:00",
         "pticetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
@@ -6898,15 +7187,17 @@
         },
         "phonenumber": "",
         "about": "",
-        "adress": "",
-        "street": "",
-        "buildnumber": "",
+        "adress": "м.Тернопіль пр-т Злуки 37",
+        "street": "пр-т Злуки",
+        "buildnumber": "37",
         "rating": 5,
         "nearest": [],
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "9253d851-eda9-11ed-91c9-00155d45d204",
@@ -6924,8 +7215,8 @@
         "phonenumber": "380732533192",
         "about": "PizzaDay №211 на вул.Залізнична 4",
         "adress": "м.Львів, вул.Залізнична 4",
-        "street": "",
-        "buildnumber": "",
+        "street": "Залізнична",
+        "buildnumber": "4/11Б",
         "rating": 5,
         "nearest": [
             {
@@ -6948,7 +7239,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "23e2aa19-f56e-11ed-91c9-00155d45d204",
@@ -6966,8 +7259,8 @@
         "phonenumber": "380732531696",
         "about": "Pizza Day№212 на вул.Закревського 87",
         "adress": "м.Київ, вул.Закревського 87",
-        "street": "",
-        "buildnumber": "",
+        "street": "Закревського ",
+        "buildnumber": "87",
         "rating": 5,
         "nearest": [
             {
@@ -6994,32 +7287,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
-    },
-    {
-        "guid": "8f9bdabe-fafa-11ed-91c9-00155d45d204",
-        "id": "1085",
-        "geolat": "0",
-        "geolon": "0",
-        "cityguid": "00000000-0000-0000-0000-000000000000",
-        "startwork": "10:00:00",
-        "endwork": "22:00:00",
-        "pticetypeguid": "b43dda32-92fb-11eb-916b-00155d45d204",
-        "foto": {
-            "url": "",
-            "date_upload": "2023-01-05 22:01:03"
         },
-        "phonenumber": "",
-        "about": "",
-        "adress": "",
-        "street": "",
-        "buildnumber": "",
-        "rating": 5,
-        "nearest": [],
-        "liqpay": {
-            "publicKey": "",
-            "privateKey": ""
-        }
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "1cdf3fe8-164e-11ee-91c9-00155d45d204",
@@ -7037,8 +7307,8 @@
         "phonenumber": "380737893404",
         "about": "PizzaDay №216 на вул.Джерельна 20",
         "adress": "м.Запоріжжя, пр-т Ювілейний 37",
-        "street": "",
-        "buildnumber": "",
+        "street": "Ювілейний ",
+        "buildnumber": "37",
         "rating": 5,
         "nearest": [
             {
@@ -7065,7 +7335,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "b305f11c-164f-11ee-91c9-00155d45d204",
@@ -7083,8 +7355,8 @@
         "phonenumber": "380637899154",
         "about": "Pizza Day №217 на вул.Немировське Шосе 94-Е",
         "adress": "м.Вінниця, вул.Немировське Шосе 94-Е",
-        "street": "",
-        "buildnumber": "",
+        "street": "Немировське Шосе",
+        "buildnumber": "94-Е",
         "rating": 5,
         "nearest": [
             {
@@ -7103,7 +7375,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "ce43e508-164f-11ee-91c9-00155d45d204",
@@ -7121,8 +7395,8 @@
         "phonenumber": "380737891093",
         "about": "Pizza Day№218 на пр-т Космонавтів 77",
         "adress": "м.Вінниця, пр-т Космонавтів 77",
-        "street": "",
-        "buildnumber": "",
+        "street": "Космонавтів",
+        "buildnumber": "77",
         "rating": 5,
         "nearest": [
             {
@@ -7141,7 +7415,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "fd990827-1651-11ee-91c9-00155d45d204",
@@ -7166,7 +7442,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "03f50d22-1652-11ee-91c9-00155d45d204",
@@ -7184,8 +7462,8 @@
         "phonenumber": "380737896553",
         "about": "Pizza Day №220 на пр-ті.Маяковського 60/10",
         "adress": "м.Київ, пр-т Маяковського 60/10",
-        "street": "",
-        "buildnumber": "",
+        "street": "Маяковського",
+        "buildnumber": "60/10",
         "rating": 5,
         "nearest": [
             {
@@ -7212,7 +7490,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "a09032ea-19a9-11ee-91c9-00155d45d204",
@@ -7258,32 +7538,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
-    },
-    {
-        "guid": "e05d7c62-2a29-11ee-91d0-00155d45d204",
-        "id": "224",
-        "geolat": "50,40011",
-        "geolon": "24,23397",
-        "cityguid": "ce43e502-164f-11ee-91c9-00155d45d204",
-        "startwork": "10:00:00",
-        "endwork": "22:00:00",
-        "pticetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
-        "foto": {
-            "url": "https://pizzaday.s3.amazonaws.com/2024/01/24/fc28efd8-baa6-11ee-91e3-00155d45d204.jpg",
-            "date_upload": "2023-01-05 22:01:03"
         },
-        "phonenumber": "380737891545",
-        "about": "Pizza Day №224 на вул.Сокальска 10",
-        "adress": "м.Червоноград, вул.Сокальська 10",
-        "street": "",
-        "buildnumber": "",
-        "rating": 5,
-        "nearest": [],
-        "liqpay": {
-            "publicKey": "",
-            "privateKey": ""
-        }
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "6654b304-2aef-11ee-91d0-00155d45d204",
@@ -7301,8 +7558,8 @@
         "phonenumber": "380737892743",
         "about": "Pizza Day №223 на вул.Зодчих 10",
         "adress": "м.Вінниця, вул.Зодчих 10/189",
-        "street": "",
-        "buildnumber": "",
+        "street": "Зодчих ",
+        "buildnumber": "10/189",
         "rating": 5,
         "nearest": [
             {
@@ -7321,7 +7578,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "798025d2-2aef-11ee-91d0-00155d45d204",
@@ -7339,14 +7598,16 @@
         "phonenumber": "380737894773",
         "about": "Pizza Day №226 на вул.Виговського 2-Д/1",
         "adress": "м.Ірпінь вул.Виговського 2-Д/1",
-        "street": "",
-        "buildnumber": "",
+        "street": "Виговського",
+        "buildnumber": "2-Д/1",
         "rating": 5,
         "nearest": [],
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "86777725-2aef-11ee-91d0-00155d45d204",
@@ -7364,8 +7625,8 @@
         "phonenumber": "380730836652",
         "about": "Pizza Day №227 на вул.Богданівська 7",
         "adress": "м.Київ, вул. Богдановська 7",
-        "street": "",
-        "buildnumber": "",
+        "street": "Богдановська",
+        "buildnumber": "7",
         "rating": 5,
         "nearest": [
             {
@@ -7392,7 +7653,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "93304d51-2aef-11ee-91d0-00155d45d204",
@@ -7438,7 +7701,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "9f4ac016-2aef-11ee-91d0-00155d45d204",
@@ -7484,7 +7749,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "96493e77-2fab-11ee-91d0-00155d45d204",
@@ -7518,32 +7785,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
-    },
-    {
-        "guid": "1171b02d-368c-11ee-91d0-00155d45d204",
-        "id": "998",
-        "geolat": "0",
-        "geolon": "0",
-        "cityguid": "00000000-0000-0000-0000-000000000000",
-        "startwork": "9:00:00",
-        "endwork": "18:00:00",
-        "pticetypeguid": "b43dda32-92fb-11eb-916b-00155d45d204",
-        "foto": {
-            "url": "",
-            "date_upload": "2023-01-05 22:01:03"
         },
-        "phonenumber": "",
-        "about": "",
-        "adress": "",
-        "street": "",
-        "buildnumber": "",
-        "rating": 5,
-        "nearest": [],
-        "liqpay": {
-            "publicKey": "",
-            "privateKey": ""
-        }
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "3384529a-383e-11ee-91d0-00155d45d204",
@@ -7561,14 +7805,16 @@
         "phonenumber": "380737892082",
         "about": "Pizza Day №230 на вул.В.Симоненка 111",
         "adress": "м.Бровари, вул.Симоненка 111",
-        "street": "",
-        "buildnumber": "",
+        "street": "Симоненка ",
+        "buildnumber": "111",
         "rating": 5,
         "nearest": [],
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "bdd47d82-4577-11ee-91d0-00155d45d204",
@@ -7586,8 +7832,8 @@
         "phonenumber": "380735673407",
         "about": "Pizza Day №232 на просп.Леся Курбаса 9В",
         "adress": "м.Київ, пр-т Леся Курбаса 9В",
-        "street": "",
-        "buildnumber": "",
+        "street": "Леся Курбаса",
+        "buildnumber": "9В",
         "rating": 5,
         "nearest": [
             {
@@ -7606,32 +7852,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
-    },
-    {
-        "guid": "93f2822c-514c-11ee-91d0-00155d45d204",
-        "id": "1021",
-        "geolat": "0",
-        "geolon": "0",
-        "cityguid": "00000000-0000-0000-0000-000000000000",
-        "startwork": "9:00:00",
-        "endwork": "18:00:00",
-        "pticetypeguid": "b43dda32-92fb-11eb-916b-00155d45d204",
-        "foto": {
-            "url": "",
-            "date_upload": "2023-01-05 22:01:03"
         },
-        "phonenumber": "",
-        "about": "",
-        "adress": "",
-        "street": "",
-        "buildnumber": "",
-        "rating": 5,
-        "nearest": [],
-        "liqpay": {
-            "publicKey": "",
-            "privateKey": ""
-        }
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "12bb3fef-53b7-11ee-91d0-00155d45d204",
@@ -7669,7 +7892,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "64c1c981-53b7-11ee-91d0-00155d45d204",
@@ -7687,8 +7912,8 @@
         "phonenumber": "380637899178",
         "about": "Pizza Day №233 на вул.Сверстюка 6Д",
         "adress": "м.Київ, вул.Сверстюка 6Д",
-        "street": "",
-        "buildnumber": "",
+        "street": "Сверстюка",
+        "buildnumber": "6Д",
         "rating": 5,
         "nearest": [
             {
@@ -7711,7 +7936,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "e54b3951-53b7-11ee-91d0-00155d45d204",
@@ -7729,14 +7956,16 @@
         "phonenumber": "0800334455",
         "about": "Pizza Day №234 на вул.Головатого 64",
         "adress": "м.Бориспіль вул. Головатого 64",
-        "street": "",
-        "buildnumber": "",
+        "street": "Головатого",
+        "buildnumber": "64",
         "rating": 5,
         "nearest": [],
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "ee1128d1-6412-11ee-91d4-00155d45d204",
@@ -7766,7 +7995,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "87253419-6413-11ee-91d4-00155d45d204",
@@ -7812,7 +8043,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "adb9b4ab-6414-11ee-91d4-00155d45d204",
@@ -7830,8 +8063,8 @@
         "phonenumber": "380735677255",
         "about": "Pizza Day №241 на вул.Стеклозаводська 10в",
         "adress": "м.Буча, вул.Склозаводська 10В",
-        "street": "",
-        "buildnumber": "",
+        "street": "Склозаводська ",
+        "buildnumber": "10В",
         "rating": 5,
         "nearest": [
             {
@@ -7842,17 +8075,19 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
-        "guid": "59f80daf-6e52-11ee-91d4-00155d45d204",
-        "id": "1022",
-        "geolat": "0",
-        "geolon": "0",
+        "guid": "e16dd3bb-732b-11ee-91d4-00155d45d204",
+        "id": "777",
+        "geolat": "48,450478",
+        "geolon": "35,067043",
         "cityguid": "00000000-0000-0000-0000-000000000000",
         "startwork": "9:00:00",
         "endwork": "18:00:00",
-        "pticetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
+        "pticetypeguid": "fa423f66-7332-11ee-91d4-00155d45d204",
         "foto": {
             "url": "",
             "date_upload": "2023-01-05 22:01:03"
@@ -7867,7 +8102,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "f35a7b29-770c-11ee-91d4-00155d45d204",
@@ -7913,7 +8150,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "e991e3cb-877f-11ee-91d6-00155d45d204",
@@ -7951,7 +8190,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "92f75e00-89fd-11ee-91d6-00155d45d204",
@@ -7976,7 +8217,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "a79b5cc5-8cfa-11ee-91d6-00155d45d204",
@@ -8022,7 +8265,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "ade61f0b-8cfe-11ee-91d6-00155d45d204",
@@ -8068,7 +8313,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "0f46ae3f-8d02-11ee-91d6-00155d45d204",
@@ -8102,7 +8349,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "47e220aa-8d03-11ee-91d6-00155d45d204",
@@ -8136,7 +8385,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "14ff175d-8d04-11ee-91d6-00155d45d204",
@@ -8178,7 +8429,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "55cb08c1-94db-11ee-91d6-00155d45d204",
@@ -8224,7 +8477,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "aeb344d9-a303-11ee-91d7-00155d45d204",
@@ -8262,7 +8517,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "178a7a27-a305-11ee-91d7-00155d45d204",
@@ -8287,7 +8544,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "095e92cb-a306-11ee-91d7-00155d45d204",
@@ -8303,8 +8562,8 @@
             "date_upload": "2023-01-05 22:01:03"
         },
         "phonenumber": "",
-        "about": "",
-        "adress": "",
+        "about": "Pizza Day №251 на вул. 15-го Квітня 15-А",
+        "adress": "м.Тернопіль вул. 15-го Квітня 15-А",
         "street": "15-го Квітня",
         "buildnumber": "15-А",
         "rating": 5,
@@ -8312,7 +8571,9 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "0c8c23bb-a3c1-11ee-91d7-00155d45d204",
@@ -8354,7 +8615,105 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
+    },
+    {
+        "guid": "be13670a-b925-11ee-91e3-00155d45d204",
+        "id": "258",
+        "geolat": "0",
+        "geolon": "0",
+        "cityguid": "d0fdae56-ec01-11ed-91c9-00155d45d204",
+        "startwork": "10:00:00",
+        "endwork": "22:00:00",
+        "pticetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
+        "foto": {
+            "url": "",
+            "date_upload": "2023-01-05 22:01:03"
+        },
+        "phonenumber": "",
+        "about": "",
+        "adress": "м.Львів, вул.Княгині Ольги 69-71",
+        "street": "вул.Княгині Ольги ",
+        "buildnumber": "69-71",
+        "rating": 5,
+        "nearest": [
+            {
+                "number": "1",
+                "guid": "348a3e19-ea5a-11ed-91c9-00155d45d204"
+            },
+            {
+                "number": "2",
+                "guid": "9253d851-eda9-11ed-91c9-00155d45d204"
+            },
+            {
+                "number": "3",
+                "guid": "b2d2abc4-d7b3-11ed-91c9-00155d45d204"
+            },
+            {
+                "number": "4",
+                "guid": "14ff175d-8d04-11ee-91d6-00155d45d204"
+            },
+            {
+                "number": "5",
+                "guid": "ed0c7cfc-b673-11ed-91c9-00155d45d204"
+            }
+        ],
+        "liqpay": {
+            "publicKey": "",
+            "privateKey": ""
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
+    },
+    {
+        "guid": "27dfe460-bb84-11ee-91e3-00155d45d204",
+        "id": "260",
+        "geolat": "50,420068",
+        "geolon": "30,381486",
+        "cityguid": "14cc3c91-c13f-11ec-91bc-00155d45d204",
+        "startwork": "10:00:00",
+        "endwork": "22:00:00",
+        "pticetypeguid": "400c3156-4c70-11ec-917d-00155d45d204",
+        "foto": {
+            "url": "",
+            "date_upload": "2023-01-05 22:01:03"
+        },
+        "phonenumber": "",
+        "about": "Pizza Day №260 на Кольцова 13",
+        "adress": "м.Київ бул. Кольцова 13",
+        "street": "бул. Кольцова",
+        "buildnumber": "13",
+        "rating": 5,
+        "nearest": [
+            {
+                "number": "1",
+                "guid": "bdd47d82-4577-11ee-91d0-00155d45d204"
+            },
+            {
+                "number": "2",
+                "guid": "23497488-4d02-11ec-917d-00155d45d204"
+            },
+            {
+                "number": "3",
+                "guid": "3e7500cd-67ec-11ec-9188-00155d45d203"
+            },
+            {
+                "number": "4",
+                "guid": "fd990827-1651-11ee-91c9-00155d45d204"
+            },
+            {
+                "number": "5",
+                "guid": "bf232f07-9313-11ed-91c9-00155d45d204"
+            }
+        ],
+        "liqpay": {
+            "publicKey": "",
+            "privateKey": ""
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     },
     {
         "guid": "8c1097c0-bb85-11ee-91e3-00155d45d204",
@@ -8370,8 +8729,8 @@
             "date_upload": "2023-01-05 22:01:03"
         },
         "phonenumber": "",
-        "about": "",
-        "adress": "",
+        "about": "Pizza Day №254 на вул. М.Грушевського 1А",
+        "adress": "м.Тернопіль вул. 15-го Квітня 15-А",
         "street": "Михайла Грушевського",
         "buildnumber": "1А",
         "rating": 5,
@@ -8379,6 +8738,358 @@
         "liqpay": {
             "publicKey": "",
             "privateKey": ""
-        }
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
+    },
+    {
+        "guid": "350849b6-bb86-11ee-91e3-00155d45d204",
+        "id": "248",
+        "geolat": "50,453981",
+        "geolon": "30,620245",
+        "cityguid": "14cc3c91-c13f-11ec-91bc-00155d45d204",
+        "startwork": "10:00:00",
+        "endwork": "22:00:00",
+        "pticetypeguid": "400c3156-4c70-11ec-917d-00155d45d204",
+        "foto": {
+            "url": "",
+            "date_upload": "2023-01-05 22:01:03"
+        },
+        "phonenumber": "",
+        "about": "Pizza Day №248 на вул. Краківська 14/6",
+        "adress": "м.Київ вул. Краківська 14/6",
+        "street": "Краківська",
+        "buildnumber": "14/6",
+        "rating": 5,
+        "nearest": [
+            {
+                "number": "1",
+                "guid": "078edeee-64db-11ed-91c9-00155d45d204"
+            },
+            {
+                "number": "2",
+                "guid": "64c1c981-53b7-11ee-91d0-00155d45d204"
+            },
+            {
+                "number": "3",
+                "guid": "ed0c7cfb-b673-11ed-91c9-00155d45d204"
+            },
+            {
+                "number": "4",
+                "guid": "92f75e00-89fd-11ee-91d6-00155d45d204"
+            },
+            {
+                "number": "5",
+                "guid": "1d36c4d4-17be-11ed-91c6-00155d45d204"
+            }
+        ],
+        "liqpay": {
+            "publicKey": "",
+            "privateKey": ""
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
+    },
+    {
+        "guid": "2780d5ed-bb87-11ee-91e3-00155d45d204",
+        "id": "255",
+        "geolat": "50,64003",
+        "geolon": "26,266403",
+        "cityguid": "ef02af3d-6413-11ee-91d4-00155d45d204",
+        "startwork": "10:00:00",
+        "endwork": "22:00:00",
+        "pticetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
+        "foto": {
+            "url": "",
+            "date_upload": "2023-01-05 22:01:03"
+        },
+        "phonenumber": "",
+        "about": "",
+        "adress": "",
+        "street": "Є.Коновальця",
+        "buildnumber": "10А",
+        "rating": 5,
+        "nearest": [
+            {
+                "number": "1",
+                "guid": "178a7a27-a305-11ee-91d7-00155d45d204"
+            }
+        ],
+        "liqpay": {
+            "publicKey": "",
+            "privateKey": ""
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
+    },
+    {
+        "guid": "92889f3b-bb87-11ee-91e3-00155d45d204",
+        "id": "259",
+        "geolat": "50,24197839317158",
+        "geolon": "28,706587971164584",
+        "cityguid": "603e8e1b-c4be-11ed-91c9-00155d45d204",
+        "startwork": "10:00:00",
+        "endwork": "22:00:00",
+        "pticetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
+        "foto": {
+            "url": "",
+            "date_upload": "2023-01-05 22:01:03"
+        },
+        "phonenumber": "",
+        "about": "",
+        "adress": "м.Житомир вул. Кибальчича 9",
+        "street": "Кибальчича",
+        "buildnumber": "9",
+        "rating": 5,
+        "nearest": [],
+        "liqpay": {
+            "publicKey": "",
+            "privateKey": ""
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
+    },
+    {
+        "guid": "59f80daf-6e52-11ee-91d4-00155d45d204",
+        "id": "1022",
+        "geolat": "0",
+        "geolon": "0",
+        "cityguid": "00000000-0000-0000-0000-000000000000",
+        "startwork": "9:00:00",
+        "endwork": "18:00:00",
+        "pticetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
+        "foto": {
+            "url": "",
+            "date_upload": "2023-01-05 22:01:03"
+        },
+        "phonenumber": "",
+        "about": "",
+        "adress": "",
+        "street": "",
+        "buildnumber": "",
+        "rating": 5,
+        "nearest": [],
+        "liqpay": {
+            "publicKey": "",
+            "privateKey": ""
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
+    },
+    {
+        "guid": "1171b02d-368c-11ee-91d0-00155d45d204",
+        "id": "998",
+        "geolat": "0",
+        "geolon": "0",
+        "cityguid": "00000000-0000-0000-0000-000000000000",
+        "startwork": "9:00:00",
+        "endwork": "18:00:00",
+        "pticetypeguid": "b43dda32-92fb-11eb-916b-00155d45d204",
+        "foto": {
+            "url": "",
+            "date_upload": "2023-01-05 22:01:03"
+        },
+        "phonenumber": "",
+        "about": "",
+        "adress": "",
+        "street": "",
+        "buildnumber": "",
+        "rating": 5,
+        "nearest": [],
+        "liqpay": {
+            "publicKey": "",
+            "privateKey": ""
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
+    },
+    {
+        "guid": "06069840-dbbc-11ee-8ac7-001dd8b75f51",
+        "id": "5001",
+        "geolat": "0",
+        "geolon": "0",
+        "cityguid": "ea9d859b-c13e-11ec-91bc-00155d45d204",
+        "startwork": "9:00:00",
+        "endwork": "18:00:00",
+        "pticetypeguid": "b43dda32-92fb-11eb-916b-00155d45d204",
+        "foto": {
+            "url": "",
+            "date_upload": "2023-01-05 22:01:03"
+        },
+        "phonenumber": "",
+        "about": "",
+        "adress": "",
+        "street": "",
+        "buildnumber": "",
+        "rating": 5,
+        "nearest": [],
+        "liqpay": {
+            "publicKey": "",
+            "privateKey": ""
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
+    },
+    {
+        "guid": "93f2822c-514c-11ee-91d0-00155d45d204",
+        "id": "1021",
+        "geolat": "0",
+        "geolon": "0",
+        "cityguid": "00000000-0000-0000-0000-000000000000",
+        "startwork": "9:00:00",
+        "endwork": "18:00:00",
+        "pticetypeguid": "b43dda32-92fb-11eb-916b-00155d45d204",
+        "foto": {
+            "url": "",
+            "date_upload": "2023-01-05 22:01:03"
+        },
+        "phonenumber": "",
+        "about": "",
+        "adress": "",
+        "street": "",
+        "buildnumber": "",
+        "rating": 5,
+        "nearest": [],
+        "liqpay": {
+            "publicKey": "",
+            "privateKey": ""
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
+    },
+    {
+        "guid": "ca00495a-32a4-11ee-91d0-00155d45d204",
+        "id": "999",
+        "geolat": "48,450478",
+        "geolon": "35,067043",
+        "cityguid": "107e6a3b-32a5-11ee-91d0-00155d45d204",
+        "startwork": "10:00:00",
+        "endwork": "21:00:00",
+        "pticetypeguid": "b43dda32-92fb-11eb-916b-00155d45d204",
+        "foto": {
+            "url": "",
+            "date_upload": "2023-01-05 22:01:03"
+        },
+        "phonenumber": "",
+        "about": "",
+        "adress": "",
+        "street": "",
+        "buildnumber": "",
+        "rating": 5,
+        "nearest": [],
+        "liqpay": {
+            "publicKey": "",
+            "privateKey": ""
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
+    },
+    {
+        "guid": "8f9bdabe-fafa-11ed-91c9-00155d45d204",
+        "id": "1085",
+        "geolat": "0",
+        "geolon": "0",
+        "cityguid": "00000000-0000-0000-0000-000000000000",
+        "startwork": "10:00:00",
+        "endwork": "22:00:00",
+        "pticetypeguid": "b43dda32-92fb-11eb-916b-00155d45d204",
+        "foto": {
+            "url": "",
+            "date_upload": "2023-01-05 22:01:03"
+        },
+        "phonenumber": "",
+        "about": "",
+        "adress": "",
+        "street": "",
+        "buildnumber": "",
+        "rating": 5,
+        "nearest": [],
+        "liqpay": {
+            "publicKey": "",
+            "privateKey": ""
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
+    },
+    {
+        "guid": "b1c16020-d0b6-11ee-8ac7-001dd8b75f51",
+        "id": "262",
+        "geolat": "50,462608851110296",
+        "geolon": "30,43767336435532",
+        "cityguid": "14cc3c91-c13f-11ec-91bc-00155d45d204",
+        "startwork": "10:00:00",
+        "endwork": "22:00:00",
+        "pticetypeguid": "400c3156-4c70-11ec-917d-00155d45d204",
+        "foto": {
+            "url": "",
+            "date_upload": "2023-01-05 22:01:03"
+        },
+        "phonenumber": "",
+        "about": "",
+        "adress": "",
+        "street": "вул.Дегтярівська ",
+        "buildnumber": "62",
+        "rating": 5,
+        "nearest": [],
+        "liqpay": {
+            "publicKey": "",
+            "privateKey": ""
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
+    },
+    {
+        "guid": "116fe3fe-16bb-11ec-9172-00155d45d204",
+        "id": "1012",
+        "geolat": "0",
+        "geolon": "0",
+        "cityguid": "ea9d859b-c13e-11ec-91bc-00155d45d204",
+        "startwork": "9:00:00",
+        "endwork": "18:00:00",
+        "pticetypeguid": "b43dda32-92fb-11eb-916b-00155d45d204",
+        "foto": {
+            "url": "",
+            "date_upload": "2023-01-05 22:01:03"
+        },
+        "phonenumber": "",
+        "about": "",
+        "adress": "",
+        "street": "",
+        "buildnumber": "",
+        "rating": 5,
+        "nearest": [],
+        "liqpay": {
+            "publicKey": "",
+            "privateKey": ""
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
+    },
+    {
+        "guid": "14f12eb4-ed7c-11ed-91c9-00155d45d204",
+        "id": "5000",
+        "geolat": "0",
+        "geolon": "0",
+        "cityguid": "00000000-0000-0000-0000-000000000000",
+        "startwork": "10:00:00",
+        "endwork": "22:00:00",
+        "pticetypeguid": "f87f4f43-57ed-11ec-9183-00155d45d204",
+        "foto": {
+            "url": "",
+            "date_upload": "2023-01-05 22:01:03"
+        },
+        "phonenumber": "",
+        "about": "",
+        "adress": "",
+        "street": "",
+        "buildnumber": "",
+        "rating": 5,
+        "nearest": [],
+        "liqpay": {
+            "publicKey": "",
+            "privateKey": ""
+        },
+        "deliveryFlagDefault": false,
+        "mapKmlUrl": ""
     }
 ]

@@ -2,11 +2,11 @@
     {
         "guid": "3e91af86-97d0-11eb-916b-00155d45d204",
         "name": "Пепероні",
-        "weight": "430",
         "art": "22042",
         "about": "Пепероні, сир Моцарелла, соус фірмовий томатний, італійські трави",
         "goodcategory": "Піца",
         "discount": false,
+        "weight": "430",
         "basesauce": [
             {
                 "guid": "f8c020e0-6508-11ee-91d4-00155d45d204",
@@ -264,11 +264,11 @@
     {
         "guid": "3e91af87-97d0-11eb-916b-00155d45d204",
         "name": "Сімейна",
-        "weight": "450",
         "art": "22058",
         "about": "Шинка, сир Моцарелла, болгарський перець, маринована цибуля, соус фірмовий томатний",
         "goodcategory": "Піца",
         "discount": false,
+        "weight": "450",
         "basesauce": [
             {
                 "guid": "f8c020e0-6508-11ee-91d4-00155d45d204",
@@ -549,23 +549,23 @@
     {
         "guid": "448ea91a-97d0-11eb-916b-00155d45d204",
         "name": "Франческа",
-        "weight": "495",
         "art": "22066",
-        "about": "Бекон, салямі, сир Моцарелла, помідор, печериці, маслини, соус фірмовий томатний",
+        "about": "Бекон, салямі, сир Моцарелла, помідор, печериці, маслини, соус вершковий",
         "goodcategory": "Піца",
         "discount": false,
+        "weight": "470",
         "basesauce": [
             {
                 "guid": "f8c020e0-6508-11ee-91d4-00155d45d204",
                 "name": "Томатний",
-                "default": true,
+                "default": false,
                 "photosause": "https://pizzaday.s3.amazonaws.com/upload/27fcccb5-4e50-11ee-91d0-00155d45d204.jpg",
                 "goodguid": "ac135688-3b0c-11ed-91c6-00155d45d204"
             },
             {
                 "guid": "ff72e438-6508-11ee-91d4-00155d45d204",
                 "name": "Вершковий",
-                "default": false,
+                "default": true,
                 "photosause": "https://pizzaday.s3.amazonaws.com/upload/90dbe20c-4e53-11ee-91d0-00155d45d204.jpg",
                 "goodguid": "448ea93a-97d0-11eb-916b-00155d45d204"
             }
@@ -755,23 +755,17 @@
                 "art": "15042"
             },
             {
-                "guid": "2c3c8448-1d89-11ed-91c6-00155d45d204",
-                "name": "Без томатного соусу",
+                "guid": "8fa0eb7e-4930-11ec-917b-00155d45d203",
+                "name": "Фірмовий томатний соус",
                 "weight": "0",
-                "art": "23021"
-            },
-            {
-                "guid": "448ea93a-97d0-11eb-916b-00155d45d204",
-                "name": "Вершковий соус",
-                "weight": "42",
-                "art": "24057"
+                "art": "24002"
             }
         ],
-        "modifiersqty": 8,
+        "modifiersqty": 7,
         "foto": [
             {
-                "url": "https://pizzaday.s3.amazonaws.com/upload/b8c4e56f-8d06-11ed-91c9-00155d45d204.jpg",
-                "date_upload": "2023-01-05 22:01:03"
+                "url": "https://pizzaday.s3.amazonaws.com/2024/03/19/f6fc90b9-e5c8-11ee-8ac7-001dd8b75f51.jpg",
+                "date_upload": "2024-03-19 12:03:06"
             }
         ],
         "hashtag": [
@@ -844,23 +838,23 @@
             "guid": "e828cd13-d055-11ec-91c1-00155d45d204",
             "name": "Піца"
         },
-        "kilocalories": 160.15,
-        "joules": 670.07,
+        "kilocalories": 230.9,
+        "joules": 962.32,
         "diameter": 30,
         "good_for_sale": true,
         "accent": false,
-        "squirrels": 6.4,
-        "fats": 8.3,
-        "carbohydrates": 27.8
+        "squirrels": 9.2,
+        "fats": 11.9,
+        "carbohydrates": 21.4
     },
     {
         "guid": "448ea91b-97d0-11eb-916b-00155d45d204",
         "name": "Чай Guifstream \"Журавлиний\"",
-        "weight": "0",
         "art": "24066",
         "about": "",
         "goodcategory": "Гарячі напої",
         "discount": false,
+        "weight": "",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -894,11 +888,11 @@
     {
         "guid": "448ea91c-97d0-11eb-916b-00155d45d204",
         "name": "Чай Guifstream \"Імбірний\"",
-        "weight": "0",
         "art": "24068",
         "about": "",
         "goodcategory": "Гарячі напої",
         "discount": false,
+        "weight": "",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -932,11 +926,11 @@
     {
         "guid": "448ea91d-97d0-11eb-916b-00155d45d204",
         "name": "Чай Guifstream \"Малиновий\"",
-        "weight": "0",
         "art": "24070",
         "about": "",
         "goodcategory": "Гарячі напої",
         "discount": false,
+        "weight": "",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -970,11 +964,11 @@
     {
         "guid": "448ea91e-97d0-11eb-916b-00155d45d204",
         "name": "Чай Guifstream \"Обліпиховий\"",
-        "weight": "0",
         "art": "24072",
         "about": "",
         "goodcategory": "Гарячі напої",
         "discount": false,
+        "weight": "",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -1008,11 +1002,11 @@
     {
         "guid": "448ea91f-97d0-11eb-916b-00155d45d204",
         "name": "Чай Guifstream \"Смородиновий\"",
-        "weight": "0",
         "art": "24074",
         "about": "",
         "goodcategory": "Гарячі напої",
         "discount": false,
+        "weight": "",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -1046,11 +1040,11 @@
     {
         "guid": "448ea925-97d0-11eb-916b-00155d45d204",
         "name": "Чотири сира",
-        "weight": "430",
         "art": "22071",
         "about": "Сир Моцарелла, Сир з блакитною пліснявою, сир Вершковий, сир Гауда, соус вершковий ",
         "goodcategory": "Піца",
         "discount": false,
+        "weight": "430",
         "basesauce": [
             {
                 "guid": "ff72e438-6508-11ee-91d4-00155d45d204",
@@ -1198,10 +1192,10 @@
                 "art": "15036"
             },
             {
-                "guid": "448ea93b-97d0-11eb-916b-00155d45d204",
-                "name": "Соус Червоний (для піци)",
-                "weight": "1 000",
-                "art": ""
+                "guid": "8fa0eb7e-4930-11ec-917b-00155d45d203",
+                "name": "Фірмовий томатний соус",
+                "weight": "0",
+                "art": "24002"
             }
         ],
         "modifiersqty": 4,
@@ -1290,11 +1284,11 @@
     {
         "guid": "448ea964-97d0-11eb-916b-00155d45d204",
         "name": "Соус-діп \"Французький з гірчицею\"",
-        "weight": "25",
         "art": "10753",
         "about": "",
         "goodcategory": "Соус діп",
         "discount": false,
+        "weight": "25",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -1328,11 +1322,11 @@
     {
         "guid": "448ea965-97d0-11eb-916b-00155d45d204",
         "name": "Соус-діп \"Кисло-солодкий\"",
-        "weight": "25",
         "art": "10754",
         "about": "",
         "goodcategory": "Соус діп",
         "discount": false,
+        "weight": "25",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -1366,11 +1360,11 @@
     {
         "guid": "448ea966-97d0-11eb-916b-00155d45d204",
         "name": "Соус-діп \"Сирний\"",
-        "weight": "25",
         "art": "10755",
         "about": "",
         "goodcategory": "Соус діп",
         "discount": false,
+        "weight": "25",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -1404,11 +1398,11 @@
     {
         "guid": "448ea968-97d0-11eb-916b-00155d45d204",
         "name": "Швепс Мохито 0,33",
-        "weight": "400",
         "art": "14812",
         "about": "",
         "goodcategory": "Напої",
         "discount": false,
+        "weight": "400",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -1442,11 +1436,11 @@
     {
         "guid": "4a8942ef-97d0-11eb-916b-00155d45d204",
         "name": "Соус-діп \"Кетчуп\"",
-        "weight": "25",
         "art": "10756",
         "about": "",
         "goodcategory": "Соус діп",
         "discount": false,
+        "weight": "25",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -1480,11 +1474,11 @@
     {
         "guid": "4a8942f0-97d0-11eb-916b-00155d45d204",
         "name": "Соус-діп \"Манго-Чілі\"",
-        "weight": "25",
         "art": "10757",
         "about": "",
         "goodcategory": "Соус діп",
         "discount": false,
+        "weight": "25",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -1518,11 +1512,11 @@
     {
         "guid": "4a8942f1-97d0-11eb-916b-00155d45d204",
         "name": "Соус-діп \"Часниковий\"",
-        "weight": "25",
         "art": "10758",
         "about": "",
         "goodcategory": "Соус діп",
         "discount": false,
+        "weight": "25",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -1556,11 +1550,11 @@
     {
         "guid": "6825b925-b6fb-11eb-916b-00155d45d204",
         "name": "Стакан Великан Шоколад",
-        "weight": "105",
         "art": "14200",
         "about": "",
         "goodcategory": "Морозиво",
         "discount": false,
+        "weight": "105",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -1594,23 +1588,23 @@
     {
         "guid": "3b42ae69-c91e-11eb-916d-00155d45d204",
         "name": "Овочева з теріякі",
-        "weight": "520",
         "art": "22040",
-        "about": "Печериці, помідор, болгарський перець, Сир Моцарелла, огірок солоний, маслини, оливки, соус фірмовий томатний, соус теріякі",
+        "about": "Сир Гауда, сир Моцарелла, сир Вершковий, сир Фелата, помідори, болгарський перець, печериці, соус вершковий ",
         "goodcategory": "Піца",
         "discount": false,
+        "weight": "455",
         "basesauce": [
             {
                 "guid": "f8c020e0-6508-11ee-91d4-00155d45d204",
                 "name": "Томатний",
-                "default": true,
+                "default": false,
                 "photosause": "https://pizzaday.s3.amazonaws.com/upload/27fcccb5-4e50-11ee-91d0-00155d45d204.jpg",
                 "goodguid": "ac135688-3b0c-11ed-91c6-00155d45d204"
             },
             {
                 "guid": "ff72e438-6508-11ee-91d4-00155d45d204",
                 "name": "Вершковий",
-                "default": false,
+                "default": true,
                 "photosause": "https://pizzaday.s3.amazonaws.com/upload/90dbe20c-4e53-11ee-91d0-00155d45d204.jpg",
                 "goodguid": "448ea93a-97d0-11eb-916b-00155d45d204"
             }
@@ -1740,40 +1734,16 @@
         "additivesqty": 10,
         "modifiers": [
             {
-                "guid": "ed379649-14ae-11ed-91c6-00155d45d204",
-                "name": "Без маслин",
+                "guid": "7c84eea6-5205-11ee-91d0-00155d45d204",
+                "name": "Без Міксу Сирів",
                 "weight": "0",
-                "art": "23013"
+                "art": "15036"
             },
             {
-                "guid": "79ad163a-14ab-11ed-91c6-00155d45d204",
-                "name": "Без оливок",
-                "weight": "0",
-                "art": "23014"
-            },
-            {
-                "guid": "1c7382f8-14a9-11ed-91c6-00155d45d204",
-                "name": "Без грибів",
-                "weight": "0",
-                "art": "23001"
-            },
-            {
-                "guid": "83cb6f33-14aa-11ed-91c6-00155d45d204",
-                "name": "Без перцю",
-                "weight": "0",
-                "art": "23016"
-            },
-            {
-                "guid": "098f062b-14ae-11ed-91c6-00155d45d204",
-                "name": "Без маринованих огірків",
-                "weight": "0",
-                "art": "23012"
-            },
-            {
-                "guid": "a9b83ae3-a099-11ed-91c9-00155d45d204",
-                "name": "Без соуса Теріякі",
-                "weight": "0",
-                "art": "15047"
+                "guid": "97ab7904-d257-11ee-8ac7-001dd8b75f51",
+                "name": "Без сиру Фелата",
+                "weight": "1 000",
+                "art": ""
             },
             {
                 "guid": "566ba44b-14aa-11ed-91c6-00155d45d204",
@@ -1782,29 +1752,35 @@
                 "art": "23017"
             },
             {
-                "guid": "2c3c8448-1d89-11ed-91c6-00155d45d204",
-                "name": "Без томатного соусу",
+                "guid": "83cb6f33-14aa-11ed-91c6-00155d45d204",
+                "name": "Без перцю",
                 "weight": "0",
-                "art": "23021"
+                "art": "23016"
             },
             {
-                "guid": "685d27ba-b2ab-11ed-91c9-00155d45d204",
-                "name": "Без сиру Моцарелла",
+                "guid": "1c7382f8-14a9-11ed-91c6-00155d45d204",
+                "name": "Без грибів",
                 "weight": "0",
-                "art": "15042"
+                "art": "23001"
             },
             {
-                "guid": "448ea93a-97d0-11eb-916b-00155d45d204",
-                "name": "Вершковий соус",
-                "weight": "42",
-                "art": "24057"
+                "guid": "a9b83ae3-a099-11ed-91c9-00155d45d204",
+                "name": "Без соуса Теріякі",
+                "weight": "0",
+                "art": "15047"
+            },
+            {
+                "guid": "8fa0eb7e-4930-11ec-917b-00155d45d203",
+                "name": "Фірмовий томатний соус",
+                "weight": "0",
+                "art": "24002"
             }
         ],
-        "modifiersqty": 10,
+        "modifiersqty": 7,
         "foto": [
             {
-                "url": "https://pizzaday.s3.amazonaws.com/upload/90d9d6d4-8d06-11ed-91c9-00155d45d204.jpg",
-                "date_upload": "2023-01-05 22:01:03"
+                "url": "https://pizzaday.s3.amazonaws.com/2024/03/19/c0012616-e5de-11ee-8ac7-001dd8b75f51.jpg",
+                "date_upload": "2024-03-19 12:03:36"
             }
         ],
         "hashtag": [
@@ -1836,13 +1812,28 @@
         ],
         "partsofdescription": [
             {
-                "guid": "1c7382f8-14a9-11ed-91c6-00155d45d204",
-                "description": "Печериці",
+                "guid": "e1a6ef2e-1d89-11ed-91c6-00155d45d204",
+                "description": "Соус Вершковий",
+                "notdelete": false
+            },
+            {
+                "guid": "a9b83ae3-a099-11ed-91c9-00155d45d204",
+                "description": "Соус Теріякі ",
+                "notdelete": false
+            },
+            {
+                "guid": "7c84eea6-5205-11ee-91d0-00155d45d204",
+                "description": "Мікс сирів",
+                "notdelete": false
+            },
+            {
+                "guid": "97ab7904-d257-11ee-8ac7-001dd8b75f51",
+                "description": "Сир Фелата",
                 "notdelete": false
             },
             {
                 "guid": "566ba44b-14aa-11ed-91c6-00155d45d204",
-                "description": "Помідор",
+                "description": "Помідори",
                 "notdelete": false
             },
             {
@@ -1851,33 +1842,8 @@
                 "notdelete": false
             },
             {
-                "guid": "685d27ba-b2ab-11ed-91c9-00155d45d204",
-                "description": "Сир Моцарелла",
-                "notdelete": false
-            },
-            {
-                "guid": "098f062b-14ae-11ed-91c6-00155d45d204",
-                "description": "Огірок солоний",
-                "notdelete": false
-            },
-            {
-                "guid": "ed379649-14ae-11ed-91c6-00155d45d204",
-                "description": "Маслини",
-                "notdelete": false
-            },
-            {
-                "guid": "79ad163a-14ab-11ed-91c6-00155d45d204",
-                "description": "Оливки",
-                "notdelete": false
-            },
-            {
-                "guid": "2c3c8448-1d89-11ed-91c6-00155d45d204",
-                "description": "Соус фірмовий томатний",
-                "notdelete": false
-            },
-            {
-                "guid": "a9b83ae3-a099-11ed-91c9-00155d45d204",
-                "description": "Соус Теріякі ",
+                "guid": "1c7382f8-14a9-11ed-91c6-00155d45d204",
+                "description": "Печериці",
                 "notdelete": false
             }
         ],
@@ -1887,23 +1853,23 @@
             "guid": "e828cd13-d055-11ec-91c1-00155d45d204",
             "name": "Піца"
         },
-        "kilocalories": 92.27,
-        "joules": 386.06,
+        "kilocalories": 202.6,
+        "joules": 845.17,
         "diameter": 30,
         "good_for_sale": true,
         "accent": false,
-        "squirrels": 3.5,
-        "fats": 3.2,
-        "carbohydrates": 31
+        "squirrels": 8.8,
+        "fats": 8.2,
+        "carbohydrates": 23.2
     },
     {
         "guid": "bc2da0c1-df0d-11eb-916f-00155d45d203",
         "name": "Американо BUONDI",
-        "weight": "100",
         "art": "24031",
         "about": "",
         "goodcategory": "Гарячі напої",
         "discount": false,
+        "weight": "100",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -1937,11 +1903,11 @@
     {
         "guid": "bc2da0c2-df0d-11eb-916f-00155d45d203",
         "name": "Американо BUONDI з молоком",
-        "weight": "100",
         "art": "24032",
         "about": "",
         "goodcategory": "Гарячі напої",
         "discount": false,
+        "weight": "100",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -1975,11 +1941,11 @@
     {
         "guid": "bc2da0c4-df0d-11eb-916f-00155d45d203",
         "name": "Еспресо BUONDI",
-        "weight": "50",
         "art": "24039",
         "about": "",
         "goodcategory": "Гарячі напої",
         "discount": false,
+        "weight": "50",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -2013,11 +1979,11 @@
     {
         "guid": "bc2da0c5-df0d-11eb-916f-00155d45d203",
         "name": "Еспресо BUONDI з молоком",
-        "weight": "50",
         "art": "24040",
         "about": "",
         "goodcategory": "Гарячі напої",
         "discount": false,
+        "weight": "50",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -2051,11 +2017,11 @@
     {
         "guid": "bc2da0c8-df0d-11eb-916f-00155d45d203",
         "name": "Капучіно BUONDI XL",
-        "weight": "250",
         "art": "24044",
         "about": "",
         "goodcategory": "Гарячі напої",
         "discount": false,
+        "weight": "250",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -2089,11 +2055,11 @@
     {
         "guid": "bc2da0c9-df0d-11eb-916f-00155d45d203",
         "name": "Лате BUONDI XL",
-        "weight": "250",
         "art": "24088",
         "about": "",
         "goodcategory": "Гарячі напої",
         "discount": false,
+        "weight": "250",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -2127,11 +2093,11 @@
     {
         "guid": "bc2da0cb-df0d-11eb-916f-00155d45d203",
         "name": "Мокачіно BUONDI",
-        "weight": "200",
         "art": "24050",
         "about": "",
         "goodcategory": "Гарячі напої",
         "discount": false,
+        "weight": "200",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -2165,11 +2131,11 @@
     {
         "guid": "74e60835-df4a-11eb-916f-00155d45d203",
         "name": "Американо Лунго",
-        "weight": "100",
         "art": "24034",
         "about": "",
         "goodcategory": "Гарячі напої",
         "discount": false,
+        "weight": "100",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -2203,11 +2169,11 @@
     {
         "guid": "9cd8e929-df4a-11eb-916f-00155d45d203",
         "name": "Малюк-АМ",
-        "weight": "95",
         "art": "14120",
         "about": "",
         "goodcategory": "Морозиво",
         "discount": false,
+        "weight": "95",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -2241,11 +2207,11 @@
     {
         "guid": "2ce4591e-ee00-11eb-916f-00155d45d203",
         "name": "Какао з молоком",
-        "weight": "150",
         "art": "24042",
         "about": "",
         "goodcategory": "Гарячі напої",
         "discount": false,
+        "weight": "150",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -2279,11 +2245,11 @@
     {
         "guid": "ea050ff1-ee00-11eb-916f-00155d45d203",
         "name": "Какао",
-        "weight": "150",
         "art": "24041",
         "about": "",
         "goodcategory": "Гарячі напої",
         "discount": false,
+        "weight": "150",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -2317,11 +2283,11 @@
     {
         "guid": "3b0ab3b8-ee40-11eb-916f-00155d45d203",
         "name": "Чай зеленый Манго та ромашки 0,5",
-        "weight": "600",
         "art": "14971",
         "about": "",
         "goodcategory": "Напої",
         "discount": false,
+        "weight": "600",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -2355,11 +2321,11 @@
     {
         "guid": "a48c7d2f-ee40-11eb-916f-00155d45d203",
         "name": "Факел зі згущеним молоком",
-        "weight": "90",
         "art": "14220",
         "about": "",
         "goodcategory": "Морозиво",
         "discount": false,
+        "weight": "90",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -2393,11 +2359,11 @@
     {
         "guid": "35cffde2-1158-11ec-9172-00155d45d204",
         "name": "Айріш",
-        "weight": "150",
         "art": "24027",
         "about": "",
         "goodcategory": "Гарячі напої",
         "discount": false,
+        "weight": "150",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -2431,11 +2397,11 @@
     {
         "guid": "aad708a5-7532-11ec-918f-00155d45d204",
         "name": "Мікс М'ясний Вайт",
-        "weight": "470",
         "art": "22038",
         "about": "Куряче філе, мисливські ковбаски, бекон, сир Моцарелла, помідори, соус вершковий",
         "goodcategory": "Піца",
         "discount": false,
+        "weight": "470",
         "basesauce": [
             {
                 "guid": "ff72e438-6508-11ee-91d4-00155d45d204",
@@ -2714,11 +2680,11 @@
     {
         "guid": "a49c5695-7536-11ec-918f-00155d45d204",
         "name": "Грибна",
-        "weight": "410",
         "art": "22020",
-        "about": "Печериці, сир Моцарелла, соус вершковий",
+        "about": "Сир Моцарелла, сир з блакитною пліснявою, печериці, маслини, соус вершковий",
         "goodcategory": "Піца",
         "discount": false,
+        "weight": "405",
         "basesauce": [
             {
                 "guid": "ff72e438-6508-11ee-91d4-00155d45d204",
@@ -2843,9 +2809,21 @@
                     "url": "https://pizzaday.s3.amazonaws.com/2024/02/21/8e63c772-d091-11ee-8ac7-001dd8b75f51.jpg",
                     "date_upload": "2024-02-21 10:02:51"
                 }
+            },
+            {
+                "guid": "e3fd3b82-7315-11ee-91d4-00155d45d204",
+                "name": "Чілі перець",
+                "weight": "30",
+                "art": "24047",
+                "recommendation": false,
+                "max_qty": 3,
+                "foto": {
+                    "url": "https://pizzaday.s3.amazonaws.com/upload/9eae71ac-538e-11ee-91d0-00155d45d204.jpg",
+                    "date_upload": "2023-10-26 10:10:30"
+                }
             }
         ],
-        "additivesqty": 9,
+        "additivesqty": 10,
         "modifiers": [
             {
                 "guid": "1c7382f8-14a9-11ed-91c6-00155d45d204",
@@ -2860,23 +2838,29 @@
                 "art": "15042"
             },
             {
-                "guid": "e1a6ef2e-1d89-11ed-91c6-00155d45d204",
-                "name": "Без вершкового соусу",
+                "guid": "ed379649-14ae-11ed-91c6-00155d45d204",
+                "name": "Без маслин",
                 "weight": "0",
-                "art": "23018"
+                "art": "23013"
             },
             {
-                "guid": "448ea93b-97d0-11eb-916b-00155d45d204",
-                "name": "Соус Червоний (для піци)",
-                "weight": "1 000",
-                "art": ""
+                "guid": "f02318f2-14b1-11ed-91c6-00155d45d204",
+                "name": "Без дорблю",
+                "weight": "0",
+                "art": "23007"
+            },
+            {
+                "guid": "8fa0eb7e-4930-11ec-917b-00155d45d203",
+                "name": "Фірмовий томатний соус",
+                "weight": "0",
+                "art": "24002"
             }
         ],
-        "modifiersqty": 4,
+        "modifiersqty": 5,
         "foto": [
             {
-                "url": "https://pizzaday.s3.amazonaws.com/upload/5c60221a-8d06-11ed-91c9-00155d45d204.jpg",
-                "date_upload": "2023-01-05 22:01:03"
+                "url": "https://pizzaday.s3.amazonaws.com/2024/03/19/929d6758-e5de-11ee-8ac7-001dd8b75f51.jpg",
+                "date_upload": "2024-03-19 12:03:01"
             }
         ],
         "hashtag": [
@@ -2929,23 +2913,23 @@
             "guid": "e828cd13-d055-11ec-91c1-00155d45d204",
             "name": "Піца"
         },
-        "kilocalories": 179,
-        "joules": 748.94,
+        "kilocalories": 210.3,
+        "joules": 878.64,
         "diameter": 30,
         "good_for_sale": true,
         "accent": false,
-        "squirrels": 5.9,
-        "fats": 5.3,
-        "carbohydrates": 24.6
+        "squirrels": 8.8,
+        "fats": 8.5,
+        "carbohydrates": 24.7
     },
     {
         "guid": "1b7a0b54-7db0-11ec-9192-00155d45d204",
         "name": "Фанта Мандарин 0,5",
-        "weight": "600",
         "art": "14894",
         "about": "",
         "goodcategory": "Напої",
         "discount": false,
+        "weight": "600",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -2979,11 +2963,11 @@
     {
         "guid": "ad9facb7-cc50-11ec-91c1-00155d45d204",
         "name": "Бір Бургер",
-        "weight": "590",
         "art": "22012",
         "about": "Куряче філе, сир Моцарелла, помідор, огірок солоний, маринована цибуля, соус фірмовий томатний, соус Бургер",
         "goodcategory": "Піца",
         "discount": false,
+        "weight": "590",
         "basesauce": [
             {
                 "guid": "f8c020e0-6508-11ee-91d4-00155d45d204",
@@ -3286,11 +3270,11 @@
     {
         "guid": "b824e5d2-cc75-11ec-91c1-00155d45d204",
         "name": "Ескімо MONO в вершк.глазурі ",
-        "weight": "85",
         "art": "14230",
         "about": "",
         "goodcategory": "Морозиво",
         "discount": false,
+        "weight": "85",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -3324,11 +3308,11 @@
     {
         "guid": "cc215d41-cc75-11ec-91c1-00155d45d204",
         "name": "Ескімо Плодово Ягідне",
-        "weight": "85",
         "art": "14240",
         "about": "",
         "goodcategory": "Морозиво",
         "discount": false,
+        "weight": "85",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -3362,11 +3346,11 @@
     {
         "guid": "b79fdb2b-d6d6-11ec-91c1-00155d45d204",
         "name": "Шинка з грибами",
-        "weight": "455",
         "art": "22074",
         "about": "Шинка, печериці, сир Моцарелла, маринована цибуля, соус вершковий",
         "goodcategory": "Піца",
         "discount": false,
+        "weight": "455",
         "basesauce": [
             {
                 "guid": "ff72e438-6508-11ee-91d4-00155d45d204",
@@ -3562,10 +3546,10 @@
                 "art": "23018"
             },
             {
-                "guid": "448ea93b-97d0-11eb-916b-00155d45d204",
-                "name": "Соус Червоний (для піци)",
-                "weight": "1 000",
-                "art": ""
+                "guid": "8fa0eb7e-4930-11ec-917b-00155d45d203",
+                "name": "Фірмовий томатний соус",
+                "weight": "0",
+                "art": "24002"
             }
         ],
         "modifiersqty": 6,
@@ -3647,11 +3631,11 @@
     {
         "guid": "8128ff80-0414-11ed-91c6-00155d45d204",
         "name": "Фанта 0,75",
-        "weight": "850",
         "art": "14995",
         "about": "",
         "goodcategory": "Напої",
         "discount": false,
+        "weight": "850",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -3685,11 +3669,11 @@
     {
         "guid": "ac745e09-0414-11ed-91c6-00155d45d204",
         "name": "Спрайт 0,75",
-        "weight": "850",
         "art": "14996",
         "about": "",
         "goodcategory": "Напої",
         "discount": false,
+        "weight": "850",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -3723,11 +3707,11 @@
     {
         "guid": "f4c3b3d5-15ec-11ed-91c6-00155d45d204",
         "name": "Чікен Чіз",
-        "weight": "460",
         "art": "22070",
         "about": "Курка, сир Моцарелла, сир Чеддер, кукурудза, соус вершковий",
         "goodcategory": "Піца",
         "discount": false,
+        "weight": "460",
         "basesauce": [
             {
                 "guid": "ff72e438-6508-11ee-91d4-00155d45d204",
@@ -3923,10 +3907,10 @@
                 "art": "23018"
             },
             {
-                "guid": "448ea93b-97d0-11eb-916b-00155d45d204",
-                "name": "Соус Червоний (для піци)",
-                "weight": "1 000",
-                "art": ""
+                "guid": "8fa0eb7e-4930-11ec-917b-00155d45d203",
+                "name": "Фірмовий томатний соус",
+                "weight": "0",
+                "art": "24002"
             }
         ],
         "modifiersqty": 6,
@@ -4008,11 +3992,11 @@
     {
         "guid": "3279a223-6bf6-11ed-91c9-00155d45d204",
         "name": "Шпинат з грибами",
-        "weight": "585",
         "art": "22075",
         "about": "Шпинат, печериці, сир Гауда, сир Моцарелла, сир Вершковий, сир з блакитною пліснявою, соус вершковий, соус теріякі",
         "goodcategory": "Піца",
         "discount": false,
+        "weight": "585",
         "basesauce": [
             {
                 "guid": "ff72e438-6508-11ee-91d4-00155d45d204",
@@ -4184,10 +4168,10 @@
                 "art": "15036"
             },
             {
-                "guid": "448ea93b-97d0-11eb-916b-00155d45d204",
-                "name": "Соус Червоний (для піци)",
-                "weight": "1 000",
-                "art": ""
+                "guid": "8fa0eb7e-4930-11ec-917b-00155d45d203",
+                "name": "Фірмовий томатний соус",
+                "weight": "0",
+                "art": "24002"
             }
         ],
         "modifiersqty": 8,
@@ -4284,11 +4268,11 @@
     {
         "guid": "ed76020b-90c3-11ed-91c9-00155d45d204",
         "name": "Соус-діп \"Барбекю\"",
-        "weight": "25",
         "art": "10759",
         "about": "",
         "goodcategory": "Соус діп",
         "discount": false,
+        "weight": "25",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -4322,11 +4306,11 @@
     {
         "guid": "4ab70147-90c5-11ed-91c9-00155d45d204",
         "name": "Соус-діп \"Тартар\"",
-        "weight": "25",
         "art": "107510",
         "about": "",
         "goodcategory": "Соус діп",
         "discount": false,
+        "weight": "25",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -4360,11 +4344,11 @@
     {
         "guid": "4c557496-a2fe-11ed-91c9-00155d45d204",
         "name": "Кока-Кола 0,75",
-        "weight": "850",
         "art": "14997",
         "about": "",
         "goodcategory": "Напої",
         "discount": false,
+        "weight": "850",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -4398,11 +4382,11 @@
     {
         "guid": "a78b4b9c-a2fe-11ed-91c9-00155d45d204",
         "name": "Кока-Кола Зеро 0,75",
-        "weight": "850",
         "art": "14998",
         "about": "",
         "goodcategory": "Напої",
         "discount": false,
+        "weight": "850",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -4436,11 +4420,11 @@
     {
         "guid": "2361d1ee-c3d5-11ed-91c9-00155d45d204",
         "name": "Морозиво \"Малюк-АМ\" Ескімо, 50г",
-        "weight": "0",
         "art": "14281",
         "about": "",
         "goodcategory": "Морозиво",
         "discount": false,
+        "weight": "",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -4474,11 +4458,11 @@
     {
         "guid": "b9a753d3-10ed-11ee-91c9-00155d45d204",
         "name": "Напій соковитий Rich \"Апельсин\" 0,5л",
-        "weight": "0",
         "art": "14921",
         "about": "",
         "goodcategory": "Напої",
         "discount": false,
+        "weight": "",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -4512,11 +4496,11 @@
     {
         "guid": "122db391-10ee-11ee-91c9-00155d45d204",
         "name": "Напій соковитий Rich  \"Мультифрукт\" 0,5л",
-        "weight": "0",
         "art": "14922",
         "about": "",
         "goodcategory": "Напої",
         "discount": false,
+        "weight": "",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -4550,11 +4534,11 @@
     {
         "guid": "75a36913-10ee-11ee-91c9-00155d45d204",
         "name": "Напій соковитий Rich  \"Ягоди\" 0,5л",
-        "weight": "0",
         "art": "14923",
         "about": "",
         "goodcategory": "Напої",
         "discount": false,
+        "weight": "",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -4588,11 +4572,11 @@
     {
         "guid": "b305a1f2-2a1a-11ee-91d0-00155d45d204",
         "name": "Монстр Енерджі 0,5",
-        "weight": "0",
         "art": "14823",
         "about": "",
         "goodcategory": "Напої",
         "discount": false,
+        "weight": "",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -4626,11 +4610,11 @@
     {
         "guid": "d05ffdf5-c1ad-11ee-8ac4-001dd8b75f51",
         "name": "СвітПай з ананасом",
-        "weight": "390",
         "art": "22084",
         "about": "Сир Гауда, сир Моцарелла, сир Вершковий, Ананас, Топінг Ананас, пудра цукрова, соус вершковий",
         "goodcategory": "Піца",
         "discount": false,
+        "weight": "390",
         "basesauce": [
             {
                 "guid": "ff72e438-6508-11ee-91d4-00155d45d204",
@@ -4672,11 +4656,11 @@
     {
         "guid": "e9557516-c1c2-11ee-8ac4-001dd8b75f51",
         "name": "СвітПай з шоколадом",
-        "weight": "370",
         "art": "22085",
         "about": "Сир Гауда, сир Моцарелла, сир Вершковий, Шоколад Молочний, Шоколад Білий, Топінг Шоколад, Какао порошок, соус вершковий",
         "goodcategory": "Піца",
         "discount": false,
+        "weight": "370",
         "basesauce": [
             {
                 "guid": "ff72e438-6508-11ee-91d4-00155d45d204",
@@ -4718,11 +4702,11 @@
     {
         "guid": "ba09a446-ccb4-11ee-8ac7-001dd8b75f51",
         "name": "Грін Чікен",
-        "weight": "560",
         "art": "22086",
         "about": "Курка, Сир Моцарелла, сир Гауда, сир Вершковий, Сир Чедер, томати, цибуля маринована, соус вершково-шпинатний",
         "goodcategory": "Піца",
         "discount": false,
+        "weight": "560",
         "basesauce": [
             {
                 "guid": "d6d21667-6699-11ee-91d4-00155d45d204",
@@ -4749,7 +4733,7 @@
                 "guid": "87b40059-ccde-11ee-8ac7-001dd8b75f51",
                 "name": "2-е МЯСО. Грін Чікен",
                 "weight": "100",
-                "art": "",
+                "art": "24089",
                 "recommendation": false,
                 "max_qty": 3,
                 "foto": {
@@ -4852,9 +4836,21 @@
                     "url": "https://pizzaday.s3.amazonaws.com/2024/02/21/8e63c772-d091-11ee-8ac7-001dd8b75f51.jpg",
                     "date_upload": "2024-02-21 10:02:51"
                 }
+            },
+            {
+                "guid": "3399818e-7316-11ee-91d4-00155d45d204",
+                "name": "Балик",
+                "weight": "30",
+                "art": "24046",
+                "recommendation": false,
+                "max_qty": 3,
+                "foto": {
+                    "url": "https://pizzaday.s3.amazonaws.com/2023/09/b210975d-73d7-11ee-91d4-00155d45d204.jpg",
+                    "date_upload": "2023-10-30 11:10:40"
+                }
             }
         ],
-        "additivesqty": 10,
+        "additivesqty": 11,
         "modifiers": [
             {
                 "guid": "566ba44b-14aa-11ed-91c6-00155d45d204",
@@ -4953,11 +4949,11 @@
     {
         "guid": "bf39fc84-cce2-11ee-8ac7-001dd8b75f51",
         "name": "Мегаполіс",
-        "weight": "570",
         "art": "22087",
         "about": "Шинка, Бекон, сир Гауда, сир Вершковий, сир Моцарелла, сир Фелата, Помідор, Маслини, цибуля зелена, соус Вершковий, соус Бургер",
         "goodcategory": "Піца",
         "discount": false,
+        "weight": "570",
         "basesauce": [
             {
                 "guid": "ff72e438-6508-11ee-91d4-00155d45d204",
@@ -5217,7 +5213,6 @@
     {
         "guid": "fbe7769a-d717-11ee-8ac7-001dd8b75f51",
         "name": "Комбо \"Буде весна\"",
-        "weight": "0",
         "art": "228",
         "about": "Барбекю 525 г\nПепероні, мисливські ковбаски, сир Гауда, сир Моцарелла, сир Вершковий, печериці, огірок солоний, маринована цибуля, зелена цибуля, соус Світ Чілі, соус Барбекю.\n\nВершкова Салями 420 г\nКурка, салямі, сир Моцарелла, сир Вершковий, сир Гауда, печериці, маринована цибуля, маслини, соус вершковий.",
         "goodcategory": "Комбо",
@@ -5232,6 +5227,7 @@
                 "discountgoodqty": 1
             }
         ],
+        "weight": "945",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -5240,7 +5236,7 @@
         "foto": [
             {
                 "url": "https://pizzaday.eatery.club/storage/pizzaday/product/icon/15693/0014201b1e1eea566515b2af3f0a7f36.png",
-                "date_upload": "2024-02-19 09:02:55"
+                "date_upload": "2024-03-07 17:03:55"
             }
         ],
         "hashtag": [],
@@ -5263,13 +5259,56 @@
         "carbohydrates": 0
     },
     {
+        "guid": "9addc6ab-e2dc-11ee-8ac7-001dd8b75f51",
+        "name": "Комбо \"Смачний Куш\"",
+        "art": "232",
+        "about": "Магаполис+ГрінЧікен\n\nМегаполис 570 г\nШинка, Бекон, сир Гауда, сир Вершковий, сир Моцарелла, сир Фелата, Помідор, Маслини, цибуля зелена, соус Вершковий, соус Бургер\n\nГрін Чікен 560 г\nКурка, Сир Моцарелла, сир Гауда, сир Вершковий, Сир Чедер, томати, цибуля маринована, соус вершково-шпинатний",
+        "goodcategory": "Комбо",
+        "discount": true,
+        "discountgoods": [
+            {
+                "discountgoodguid": "ba09a446-ccb4-11ee-8ac7-001dd8b75f51",
+                "discountgoodqty": 1
+            },
+            {
+                "discountgoodguid": "bf39fc84-cce2-11ee-8ac7-001dd8b75f51",
+                "discountgoodqty": 1
+            }
+        ],
+        "weight": "1130",
+        "basesauce": [],
+        "additives": [],
+        "additivesqty": 0,
+        "modifiers": [],
+        "modifiersqty": 0,
+        "foto": [],
+        "hashtag": [],
+        "availability": [],
+        "filters": [],
+        "partsofdescription": [],
+        "priority": 0,
+        "mainpagepriority": 0,
+        "inmenu": {
+            "guid": "9ea70e8f-abdd-11ee-91e3-00155d45d204",
+            "name": "Комбо"
+        },
+        "kilocalories": 0,
+        "joules": 0,
+        "diameter": 0,
+        "good_for_sale": false,
+        "accent": false,
+        "squirrels": 0,
+        "fats": 0,
+        "carbohydrates": 0
+    },
+    {
         "guid": "3e91aec4-97d0-11eb-916b-00155d45d204",
         "name": "Пакет",
-        "weight": "10",
         "art": "10710",
         "about": "Пакет",
         "goodcategory": "Упаковка",
         "discount": false,
+        "weight": "10",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -5303,11 +5342,11 @@
     {
         "guid": "3e91af1e-97d0-11eb-916b-00155d45d204",
         "name": "Кока-Кола Зеро 0,33",
-        "weight": "500",
         "art": "14800",
         "about": "",
         "goodcategory": "Напої",
         "discount": false,
+        "weight": "500",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -5341,11 +5380,11 @@
     {
         "guid": "3e91af23-97d0-11eb-916b-00155d45d204",
         "name": "Швепс Гранат 0,33",
-        "weight": "400",
         "art": "14810",
         "about": "",
         "goodcategory": "Напої",
         "discount": false,
+        "weight": "400",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -5379,11 +5418,11 @@
     {
         "guid": "3e91af2b-97d0-11eb-916b-00155d45d204",
         "name": "Монстр Енерджі 0,35 ",
-        "weight": "400",
         "art": "14821",
         "about": "",
         "goodcategory": "Напої",
         "discount": false,
+        "weight": "400",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -5417,11 +5456,11 @@
     {
         "guid": "3e91af2c-97d0-11eb-916b-00155d45d204",
         "name": "Кока-Кола 0,33",
-        "weight": "400",
         "art": "14830",
         "about": "",
         "goodcategory": "Напої",
         "discount": false,
+        "weight": "400",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -5455,11 +5494,11 @@
     {
         "guid": "3e91af35-97d0-11eb-916b-00155d45d204",
         "name": "Кока-Кола Зеро 0,5",
-        "weight": "600",
         "art": "14860",
         "about": "",
         "goodcategory": "Напої",
         "discount": false,
+        "weight": "600",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -5493,11 +5532,11 @@
     {
         "guid": "3e91af3b-97d0-11eb-916b-00155d45d204",
         "name": "Кока-Кола 0,5",
-        "weight": "530",
         "art": "14880",
         "about": "",
         "goodcategory": "Напої",
         "discount": false,
+        "weight": "530",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -5531,11 +5570,11 @@
     {
         "guid": "3e91af3f-97d0-11eb-916b-00155d45d204",
         "name": "Фанта 0,5",
-        "weight": "600",
         "art": "14890",
         "about": "",
         "goodcategory": "Напої",
         "discount": false,
+        "weight": "600",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -5569,11 +5608,11 @@
     {
         "guid": "3e91af45-97d0-11eb-916b-00155d45d204",
         "name": "Спрайт 0,5",
-        "weight": "530",
         "art": "14900",
         "about": "",
         "goodcategory": "Напої",
         "discount": false,
+        "weight": "530",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -5607,11 +5646,11 @@
     {
         "guid": "3e91af48-97d0-11eb-916b-00155d45d204",
         "name": "Cок Rich Kids 0,2 ",
-        "weight": "250",
         "art": "14910",
         "about": "",
         "goodcategory": "Напої",
         "discount": false,
+        "weight": "250",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -5645,11 +5684,11 @@
     {
         "guid": "3e91af56-97d0-11eb-916b-00155d45d204",
         "name": "Бонаква б/г 0,5",
-        "weight": "600",
         "art": "14950",
         "about": "",
         "goodcategory": "Напої",
         "discount": false,
+        "weight": "600",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -5683,11 +5722,11 @@
     {
         "guid": "3e91af59-97d0-11eb-916b-00155d45d204",
         "name": "Бонаква газ 0,5",
-        "weight": "600",
         "art": "14960",
         "about": "",
         "goodcategory": "Напої",
         "discount": false,
+        "weight": "600",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -5721,11 +5760,11 @@
     {
         "guid": "3e91af5c-97d0-11eb-916b-00155d45d204",
         "name": "Чай Лесная Ягода 0,5",
-        "weight": "600",
         "art": "14970",
         "about": "",
         "goodcategory": "Напої",
         "discount": false,
+        "weight": "600",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -5759,11 +5798,11 @@
     {
         "guid": "3e91af5f-97d0-11eb-916b-00155d45d204",
         "name": "Чай Лимон 0,5",
-        "weight": "600",
         "art": "14980",
         "about": "",
         "goodcategory": "Напої",
         "discount": false,
+        "weight": "600",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -5797,23 +5836,23 @@
     {
         "guid": "3e91af79-97d0-11eb-916b-00155d45d204",
         "name": "Гавайська",
-        "weight": "450",
         "art": "22016",
-        "about": "Куряче філе, сир Моцарелла, ананаси, печериці, соус фірмовий томатний",
+        "about": "Куряче філе, сир Моцарелла, ананаси, печериці, соус вершковий.",
         "goodcategory": "Піца",
         "discount": false,
+        "weight": "425",
         "basesauce": [
             {
                 "guid": "f8c020e0-6508-11ee-91d4-00155d45d204",
                 "name": "Томатний",
-                "default": true,
+                "default": false,
                 "photosause": "https://pizzaday.s3.amazonaws.com/upload/27fcccb5-4e50-11ee-91d0-00155d45d204.jpg",
                 "goodguid": "ac135688-3b0c-11ed-91c6-00155d45d204"
             },
             {
                 "guid": "ff72e438-6508-11ee-91d4-00155d45d204",
                 "name": "Вершковий",
-                "default": false,
+                "default": true,
                 "photosause": "https://pizzaday.s3.amazonaws.com/upload/90dbe20c-4e53-11ee-91d0-00155d45d204.jpg",
                 "goodguid": "448ea93a-97d0-11eb-916b-00155d45d204"
             }
@@ -5991,23 +6030,17 @@
                 "art": "15042"
             },
             {
-                "guid": "2c3c8448-1d89-11ed-91c6-00155d45d204",
-                "name": "Без томатного соусу",
+                "guid": "8fa0eb7e-4930-11ec-917b-00155d45d203",
+                "name": "Фірмовий томатний соус",
                 "weight": "0",
-                "art": "23021"
-            },
-            {
-                "guid": "448ea93a-97d0-11eb-916b-00155d45d204",
-                "name": "Вершковий соус",
-                "weight": "42",
-                "art": "24057"
+                "art": "24002"
             }
         ],
-        "modifiersqty": 6,
+        "modifiersqty": 5,
         "foto": [
             {
-                "url": "https://pizzaday.s3.amazonaws.com/upload/547fc502-8d06-11ed-91c9-00155d45d204.jpg",
-                "date_upload": "2023-01-05 22:01:03"
+                "url": "https://pizzaday.s3.amazonaws.com/2024/03/19/c5562b40-e5db-11ee-8ac7-001dd8b75f51.jpg",
+                "date_upload": "2024-03-19 12:03:16"
             }
         ],
         "hashtag": [
@@ -6059,8 +6092,8 @@
                 "notdelete": false
             },
             {
-                "guid": "2c3c8448-1d89-11ed-91c6-00155d45d204",
-                "description": "Соус фірмовий томатний",
+                "guid": "e1a6ef2e-1d89-11ed-91c6-00155d45d204",
+                "description": "соус Белый",
                 "notdelete": false
             }
         ],
@@ -6070,23 +6103,23 @@
             "guid": "e828cd13-d055-11ec-91c1-00155d45d204",
             "name": "Піца"
         },
-        "kilocalories": 110.34,
-        "joules": 461.66,
+        "kilocalories": 201.6,
+        "joules": 840.98,
         "diameter": 30,
         "good_for_sale": true,
         "accent": false,
-        "squirrels": 4.9,
-        "fats": 3.3,
-        "carbohydrates": 28.8
+        "squirrels": 9.2,
+        "fats": 7.5,
+        "carbohydrates": 24.3
     },
     {
         "guid": "3e91af7d-97d0-11eb-916b-00155d45d204",
         "name": "Карбонара",
-        "weight": "490",
         "art": "22001",
         "about": "Бекон, шинка, печериці, сир Моцарелла, маринована цибуля, оливки, соус вершковий",
         "goodcategory": "Піца",
         "discount": false,
+        "weight": "490",
         "basesauce": [
             {
                 "guid": "ff72e438-6508-11ee-91d4-00155d45d204",
@@ -6294,10 +6327,10 @@
                 "art": "23018"
             },
             {
-                "guid": "448ea93b-97d0-11eb-916b-00155d45d204",
-                "name": "Соус Червоний (для піци)",
-                "weight": "1 000",
-                "art": ""
+                "guid": "8fa0eb7e-4930-11ec-917b-00155d45d203",
+                "name": "Фірмовий томатний соус",
+                "weight": "0",
+                "art": "24002"
             }
         ],
         "modifiersqty": 8,
@@ -6389,11 +6422,11 @@
     {
         "guid": "3e91af7e-97d0-11eb-916b-00155d45d204",
         "name": "М`ясна",
-        "weight": "530",
         "art": "22025",
         "about": "Шинка, салямі, бекон, сир Моцарелла, помідор, маринована цибуля, соус фірмовий томатний \n",
         "goodcategory": "Піца",
         "discount": false,
+        "weight": "530",
         "basesauce": [
             {
                 "guid": "f8c020e0-6508-11ee-91d4-00155d45d204",
@@ -6696,11 +6729,11 @@
     {
         "guid": "3e91af82-97d0-11eb-916b-00155d45d204",
         "name": "Маргарита",
-        "weight": "420",
         "art": "22029",
         "about": "Сир Моцарелла, помідор, соус фірмовий томатний, італійські трави",
         "goodcategory": "Піца",
         "discount": false,
+        "weight": "420",
         "basesauce": [
             {
                 "guid": "f8c020e0-6508-11ee-91d4-00155d45d204",
@@ -6946,11 +6979,11 @@
     {
         "guid": "3e91af83-97d0-11eb-916b-00155d45d204",
         "name": "Мисливська",
-        "weight": "440",
         "art": "22036",
         "about": "Салямі, мисливські ковбаски, сир Моцарелла, огірок солоний, маринована цибуля, соус фірмовий томатний",
         "goodcategory": "Піца",
         "discount": false,
+        "weight": "440",
         "basesauce": [
             {
                 "guid": "f8c020e0-6508-11ee-91d4-00155d45d204",
@@ -7242,11 +7275,11 @@
     {
         "guid": "7a6fb041-9d81-11ee-91d6-00155d45d204",
         "name": "Випічка з ананасом",
-        "weight": "405",
         "art": "22080",
         "about": "Крем-сир, сир Гауда, сир Моцарелла, сир Вершковий, Ананас, Топінг Ананас, пудра цукрова, соус вершковий",
         "goodcategory": "Піца",
         "discount": false,
+        "weight": "405",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -7275,11 +7308,11 @@
     {
         "guid": "d3f9e14c-9d90-11ee-91d6-00155d45d204",
         "name": "Випічка з шоколадом",
-        "weight": "370",
         "art": "22081",
         "about": "Шоколад молочний, топінг Шоколад, сир Гауда, сир Моцарелла, сир Вершковий, шоколад білий, какао порошок, соус вершковий",
         "goodcategory": "Піца",
         "discount": false,
+        "weight": "370",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -7308,7 +7341,6 @@
     {
         "guid": "a1ed2e07-9db3-11ee-91d6-00155d45d204",
         "name": "Комбо \"Ситого дракона\"(Діабло+Барбекю)",
-        "weight": "0",
         "art": "214",
         "about": "",
         "goodcategory": "Комбо",
@@ -7323,6 +7355,7 @@
                 "discountgoodqty": 1
             }
         ],
+        "weight": "1065",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -7356,7 +7389,6 @@
     {
         "guid": "e8d1b049-9db5-11ee-91d6-00155d45d204",
         "name": "Комбо \"Ситого дракона\"(Фермерська+БлюЧіз ананас)",
-        "weight": "0",
         "art": "215",
         "about": "",
         "goodcategory": "Комбо",
@@ -7371,6 +7403,7 @@
                 "discountgoodqty": 1
             }
         ],
+        "weight": "1000",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -7404,7 +7437,6 @@
     {
         "guid": "ac2bc78f-a415-11ee-91d7-00155d45d204",
         "name": "Комбо \"Дай 5\"(ММВ)",
-        "weight": "0",
         "art": "217",
         "about": "",
         "goodcategory": "Комбо",
@@ -7431,6 +7463,7 @@
                 "discountgoodqty": 1
             }
         ],
+        "weight": "2465",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -7464,11 +7497,11 @@
     {
         "guid": "042931fe-a4b2-11ee-91d7-00155d45d204",
         "name": "Кока-Кола скло 0,25",
-        "weight": "0",
         "art": "",
         "about": "",
         "goodcategory": "Напої",
         "discount": false,
+        "weight": "",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -7497,11 +7530,11 @@
     {
         "guid": "778b6228-a4b2-11ee-91d7-00155d45d204",
         "name": "Спрайт скло 0,25",
-        "weight": "0",
         "art": "",
         "about": "",
         "goodcategory": "Напої",
         "discount": false,
+        "weight": "",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -7530,11 +7563,11 @@
     {
         "guid": "52c5f7e3-a582-11ee-91d7-00155d45d204",
         "name": "Чай лимон-лемонграс 0,5",
-        "weight": "600",
         "art": "14982",
         "about": "",
         "goodcategory": "Напої",
         "discount": false,
+        "weight": "600",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -7568,11 +7601,11 @@
     {
         "guid": "ff646fa3-b37d-11ee-91e3-00155d45d204",
         "name": "Вершкова Салямі ",
-        "weight": "420",
         "art": "22082",
         "about": "Курка, салямі, сир Моцарелла, сир Вершковий, сир Гауда, печериці, маринована цибуля, маслини, соус вершковий.",
         "goodcategory": "Піца",
         "discount": false,
+        "weight": "420",
         "basesauce": [
             {
                 "guid": "ff72e438-6508-11ee-91d4-00155d45d204",
@@ -7834,11 +7867,11 @@
     {
         "guid": "2b7a62ef-b39e-11ee-91e3-00155d45d204",
         "name": "Домашня",
-        "weight": "445",
         "art": "22083",
         "about": "Салямі, сир Моцарелла, сир Вершковий, сир Гауда, огірок солоний, , соус фірмовий томатний, соус Бургер.",
         "goodcategory": "Піца",
         "discount": false,
+        "weight": "445",
         "basesauce": [],
         "additives": [
             {
@@ -8070,11 +8103,11 @@
     {
         "guid": "20dff18b-6c1c-11ee-91d4-00155d45d204",
         "name": "Фанта Манго ЗЕРО ( 0,5 )",
-        "weight": "0",
         "art": "14895",
         "about": "",
         "goodcategory": "Напої",
         "discount": false,
+        "weight": "",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -8108,11 +8141,11 @@
     {
         "guid": "05d19a40-7a40-11ee-91d6-00155d45d204",
         "name": "Эксклюзивная пицца",
-        "weight": "430",
         "art": "",
         "about": "",
         "goodcategory": "Піца",
         "discount": false,
+        "weight": "430",
         "basesauce": [],
         "additives": [],
         "additivesqty": 0,
@@ -8141,11 +8174,11 @@
     {
         "guid": "f3123aa9-305c-11ee-91d0-00155d45d204",
         "name": "Піца від бренд-шефа",
-        "weight": "650",
         "art": "15021",
         "about": "Соус вершково-шпинатний, пепероні, куряче філе, сир Гауда, сир Вершковий, сир Моцарелла, сир Чеддер, Крем-сир (бортики), цибуля маринована, помідор, соус Світ Чілі, зелена цибуля.",
         "goodcategory": "Піца",
         "discount": false,
+        "weight": "650",
         "basesauce": [
             {
                 "guid": "d6d21667-6699-11ee-91d4-00155d45d204",
@@ -8263,9 +8296,21 @@
                     "url": "https://pizzaday.s3.amazonaws.com/2024/02/21/8e63c772-d091-11ee-8ac7-001dd8b75f51.jpg",
                     "date_upload": "2024-02-21 10:02:51"
                 }
+            },
+            {
+                "guid": "e3fd3b82-7315-11ee-91d4-00155d45d204",
+                "name": "Чілі перець",
+                "weight": "30",
+                "art": "24047",
+                "recommendation": false,
+                "max_qty": 3,
+                "foto": {
+                    "url": "https://pizzaday.s3.amazonaws.com/upload/9eae71ac-538e-11ee-91d0-00155d45d204.jpg",
+                    "date_upload": "2023-10-26 10:10:30"
+                }
             }
         ],
-        "additivesqty": 9,
+        "additivesqty": 10,
         "modifiers": [
             {
                 "guid": "566ba44b-14aa-11ed-91c6-00155d45d204",
@@ -8432,11 +8477,11 @@
     {
         "guid": "4e130d97-87ad-11ee-91d6-00155d45d204",
         "name": "Фермерська",
-        "weight": "570",
         "art": "22078",
         "about": "Бекон, Балик, куряче філе, Сир Моцарелла, сир Гауда, сир Вершковий,   болгарський перець, томати, вершково-гірчичний соус, соус Барбекю",
         "goodcategory": "Піца",
         "discount": false,
+        "weight": "570",
         "basesauce": [
             {
                 "guid": "3c938ed3-669c-11ee-91d4-00155d45d204",
@@ -8697,11 +8742,11 @@
     {
         "guid": "dd785723-87b6-11ee-91d6-00155d45d204",
         "name": "БлюЧіз Ананас",
-        "weight": "430",
         "art": "22079",
         "about": "Сир Моцарелла, Сир з блакитною пліснявою, Ананас, Топінг Ананас, Кунжут смажений чорний та білий, соус вершковий",
         "goodcategory": "Піца",
         "discount": false,
+        "weight": "430",
         "basesauce": [
             {
                 "guid": "ff72e438-6508-11ee-91d4-00155d45d204",
@@ -8923,11 +8968,11 @@
     {
         "guid": "5294e1d3-3b47-11ee-91d0-00155d45d204",
         "name": "Діабло",
-        "weight": "540",
         "art": "15023",
         "about": "Балик м`ясний, бекон, сир Гауда, сир Моцарелла, сир Вершковий, \nболгарський перець, перець чилі, соус Бургер, Соус Барбекю",
         "goodcategory": "Піца",
         "discount": false,
+        "weight": "540",
         "basesauce": [
             {
                 "guid": "3c938ed3-669c-11ee-91d4-00155d45d204",
@@ -9217,11 +9262,11 @@
     {
         "guid": "48106a5f-3b4f-11ee-91d0-00155d45d204",
         "name": "Барбекю",
-        "weight": "525",
         "art": "15020",
         "about": "Пепероні, мисливські ковбаски, сир Гауда, сир Моцарелла, сир Вершковий, печериці, огірок солоний, маринована цибуля,  зелена цибуля, соус Світ Чілі, соус Барбекю.",
         "goodcategory": "Піца",
         "discount": false,
+        "weight": "525",
         "basesauce": [
             {
                 "guid": "3c938ed3-669c-11ee-91d4-00155d45d204",
@@ -9533,11 +9578,11 @@
     {
         "guid": "3e91af85-97d0-11eb-916b-00155d45d204",
         "name": "Піца Дей",
-        "weight": "550",
         "art": "22047",
         "about": "Салямі, курка, мисливські ковбаски, сир Моцарелла, печериці, помідор, перець болгарський, маслини, оливки, соус фірмовий томатний, соус світ чілі",
         "goodcategory": "Піца",
         "discount": false,
+        "weight": "550",
         "basesauce": [
             {
                 "guid": "f8c020e0-6508-11ee-91d4-00155d45d204",
